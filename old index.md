@@ -19,11 +19,6 @@ page_id: 0
   * ... 
 
 
-* * * 
-
-* * * 
-
-
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 

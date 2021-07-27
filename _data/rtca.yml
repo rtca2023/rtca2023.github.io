@@ -1,10 +1,18 @@
+
+
+
 navbar:
   - id: 0
     label: RTCA home
     path: /
     visible: True
   - id: 1
-    label: another
-    path: /another-page.html
+    label: Organization 
+    path: /organization.html
     visible: True
+  - id: 2
+    label: Scientific Committee  
+    path: /committee.html
+    visible: True
+
 
