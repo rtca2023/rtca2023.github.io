@@ -4,3 +4,14 @@ description:
 show_downloads: true
 google_analytics:
 theme: 
+
+assets:
+  sources:
+    - assets/
+    - assets/js
+    - assets/css
+    - assets/images
+    - assets/images/logos
+
+
+ 
