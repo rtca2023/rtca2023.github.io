@@ -6,12 +6,11 @@ google_analytics:
 theme: 
 
 assets:
-  sources:
     - assets/
-    - assets/js
-    - assets/css
-    - assets/images
-    - assets/images/logos
+    - assets/js/
+    - assets/css/
+    - assets/images/
+    - assets/images/logos/
 
 
  
