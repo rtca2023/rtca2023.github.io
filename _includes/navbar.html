@@ -20,14 +20,15 @@
 
                {% for nav in site.data.rtca.navbar %}
                {% if nav.visible %}
-               {% if page.url == nav.path %}
+               {% if page.url == nav.path %} 
                <li class="nav-item active">
+
                   <a class="nav-link m-1" href=".{{ nav.path }}">
                      <strong>{{ nav.label | escape }}</strong>
                      <span class="sr-only">(current)</span>
                  </a>
              </li>
-             {% else %}
+             {% else %} 
              <li class="nav-item">
               <a class="nav-link m-1" href=".{{ nav.path }}">
                  <strong>{{ nav.label | escape }}</strong>

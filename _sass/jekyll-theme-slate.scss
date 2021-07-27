@@ -119,7 +119,7 @@ a:hover, a:focus {
 
 footer a {
   color: #F2F2F2;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 em, cite {
@@ -135,14 +135,7 @@ img {
   margin: 0 auto;
   max-width: 739px;
   padding: 5px;
-  margin: 10px 0 10px 0;
-  border: 1px solid #ebebeb;
-
-  box-shadow: 0 0 5px #ebebeb;
-  -webkit-box-shadow: 0 0 5px #ebebeb;
-  -moz-box-shadow: 0 0 5px #ebebeb;
-  -o-box-shadow: 0 0 5px #ebebeb;
-  -ms-box-shadow: 0 0 5px #ebebeb;
+  
 }
 
 p img {
@@ -395,9 +388,17 @@ RTCA styles
  
 } 
 
-.responsive {
-  width: 100%;
-  height: auto;
+
+.logo {
+  width: 100px;
+  height:auto;
+  object-fit: contain;
+}
+
+.logo2 {
+  width: 200px;
+  height:auto;
+  object-fit: contain;
 }
 
 #nav_wrap {
@@ -429,7 +430,8 @@ RTCA styles
 
 .navbar-inverse .navbar-nav  > li > a { color: #F29E24 !important; }
 .navbar-inverse .navbar-nav  > li > a:hover { color: #4169E1 !important; }
-.navbar-inverse .navbar-nav  > .active { color: #4169E1 !important; }
+.navbar-inverse .navbar-nav  > .active > {color: #F29E24 !important; }
+
 
 #brand {
   padding-left: 40px;

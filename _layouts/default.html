@@ -14,26 +14,26 @@
   <body>
 
     <!-- HEADER -->
- {% if page.page_id == 0 %}
+    {% if page.page_id == 0 %}
     <div id="header_wrap" class="outer">
 
       <header class="inner">
 
-<div style="text-align: right">
- <a href="http://www.ihp.fr" ><img id="IHPhome" alt="logo IHP" src="./assets/images/Logo_IHP.png"> </a>
-        <a href="https://milyon.universite-lyon.fr" ><img id="MILYONhome" alt="logo MILYON" src="./assets/images/LABEX_MILYON.jpg"></a> 
-       
+        <div style="text-align: right">
+         <a href="http://www.ihp.fr" ><img id="IHPhome" alt="logo IHP" src="./assets/images/logos/Logo_IHP.png"> </a>
+         <a href="https://milyon.universite-lyon.fr" ><img id="MILYONhome" alt="logo MILYON" src="./assets/images/logos/LABEX_MILYON.jpg"></a> 
 
-<a href="https://www.cirm-math.fr" ><img  id="CIRMhome" alt="logo CIRM" src="./assets/images/cirm.jpg" ></a>
-</div>
-
-        <h1 id="project_title"> {{ site.title }}</h1>
 
         
+       </div>
 
-      </header>
-    </div>
- {% endif %}
+       <h1 id="project_title"> {{ site.title }}</h1>
+
+
+
+     </header>
+   </div>
+   {% endif %}
 
    {% include navbar.html %}
 
@@ -52,9 +52,15 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        {% if site.github.is_project_page %}
-        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
+      
+      <div>
+        <a href="http://www.cnrs.fr" ><img   class="logo" alt="logo CNRS" src="./assets/images/logos/CNRS.png"> </a>
+        <a href="http://www.ihp.fr" ><img   class="logo" alt="logo IHP" src="./assets/images/logos/Logo_IHP.png"> </a>
+        <a href="https://milyon.universite-lyon.fr" ><img  class="logo" alt="logo MILYON" src="./assets/images/logos/LABEX_MILYON.jpg"></a> 
+        <a href="https://www.cirm-math.fr" ><img  class="logo" alt="logo CIRM" src="./assets/images/logos/cirm.jpg" ></a> 
+        <a href="https://www.gdr-im.fr" ><img  class="logo2" alt="logo GDR IM" src="./assets/images/logos/GDRIM.png" ></a> 
+      </div>
+         
   
       </footer>
     </div>

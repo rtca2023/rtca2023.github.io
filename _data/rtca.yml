@@ -1,10 +1,10 @@
 navbar:
-  - id: 1
-    label: RTCA 2023
-    path: /index.html
+  - id: 0
+    label: RTCA home
+    path: /
     visible: True
-  - id: 2
-    label: Organization
-    path: /organization.html
+  - id: 1
+    label: another
+    path: /another-page.html
     visible: True
 
