@@ -5,12 +5,6 @@ show_downloads: true
 google_analytics:
 theme: 
 
-assets:
-    - assets/
-    - assets/js/
-    - assets/css/
-    - assets/images/
-    - assets/images/logos/
-
+baseurl: "https://rtca2023.github.io"
 
  
