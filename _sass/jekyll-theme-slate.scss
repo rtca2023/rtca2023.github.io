@@ -244,7 +244,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 640%;
+  max-width: 80%;
   padding: 20px 10px;
   margin: 0 auto;
 }
@@ -368,6 +368,12 @@ RTCA styles
   object-fit: contain;
 }
 
+.logo1 {
+  width: 80px;
+  height:auto;
+  object-fit: contain;
+}
+
 .logo2 {
   width: 200px;
   height:auto;
@@ -376,6 +382,7 @@ RTCA styles
 
 #nav_wrap {
   background: #373737;
+  width: 100%;
 }
 
 .nav {
@@ -387,17 +394,16 @@ RTCA styles
     border-radius: 12px;
 }
 
-.mynav {
-    padding-top: 20px;
-    padding-bottom: 20px;
+.navbar-nav .nav-item .nav-link {
+    color: red;
 }
-
 
 
 .nav {
     background: #222;
     font-size: 110%;
 }
+
 
 
 
