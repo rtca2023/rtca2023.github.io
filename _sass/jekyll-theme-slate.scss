@@ -365,20 +365,17 @@ RTCA styles
 
 .logo {
   width: 100px;
-  height:auto;
-  object-fit: contain;
+  height:auto; 
 }
 
 .logo1 {
   width: 80px;
   height:auto;
-  object-fit: contain;
 }
 
 .logo2 {
   width: 200px;
   height:auto;
-  object-fit: contain;
 }
 
 #nav_wrap {
@@ -421,7 +418,7 @@ Small Device Styles
 
 @media screen and (max-width: 992px) {
   img {
-    max-width: 100%;
+    width: 100%;
   }
 }
 
@@ -436,8 +433,7 @@ Small Device Styles
 
 
   .inner {
-    min-width: 320px;
-    max-width: 480px;
+    width: 100%;
   }
 
   #project_title {
