@@ -245,7 +245,7 @@ Full-Width Styles
 .inner {
   position: relative;
   max-width: 80%;
-  padding: 20px 10px;
+  padding: 20px 20px;
   margin: 0 auto;
 }
 
@@ -277,10 +277,11 @@ Full-Width Styles
 
   margin: 0;
   color: #F29E24;
-  font-size: 42px;
+  font-size: 38px;
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
   padding-top: 20px;
+  padding-bottom: 20px;
 
 }
 
@@ -335,7 +336,7 @@ Full-Width Styles
 
 #footer_wrap {
   background: #373737;
-  padding: 20px;
+  padding: 8px;
 }
 
 
@@ -385,7 +386,14 @@ RTCA styles
 
 
 .nav {
-    border-radius: 12px;
+    border-radius: 1px;
+
+}
+
+.mynav {
+
+    padding-top: 10px;
+    padding-bottom: 12px;
 }
 
 .navbar-nav .nav-item .nav-link {
@@ -395,18 +403,33 @@ RTCA styles
 
 .nav {
     background: #222;
-    font-size: 110%;
+    font-size: 80%;
 }
-
-
-
 
 
 #brand {
-  padding-left: 40px;
-  color: #999;
+padding-bottom: 6px;
+  padding-left: 30px;
+  padding-right: 6px;
+  color: #F29E24;
+  font-size: 120%;
 }
 
+#brandparis {
+padding-bottom: 6px;
+  padding-left: 30px;
+  padding-right: 10px;
+  color: #999;
+  font-size: 120%;
+}
+
+#brandlyon {
+padding-bottom: 6px;
+  padding-left: 30px;
+  padding-right: 11px;
+  color: #999;
+  font-size: 120%;
+}
 
 /*******************************************************************************
 Small Device Styles
@@ -521,4 +544,5 @@ Small Device Styles
   }
 
 }
+
 

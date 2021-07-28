@@ -1,47 +1,123 @@
  <div  id="nav_wrap"  class="outer">
 
  	<!--navbar-->
- 	<div class=" mynav inner">
- 		
- 		<nav class="nav navbar-toggleable-sm navbar-inverse">
- 			
-                <a id="brand" class="navbar-brand">Menu</a>
+ 	
+   <div class="mynav col-xs-6 col-sm-6 col-md-11 col-lg-9 col-xl-7">
 
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler"
-                aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
+      <nav class="nav navbar-toggleable-sm navbar-inverse">
 
-    
-        
-        <div class="collapse navbar-collapse " id="navbarToggler">
+        <a id="brand" class="navbar-brand">RTCA</a>
 
-            <ul class="navbar-nav mx-auto text-center">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler"
+        aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+     </button>
 
-               {% for nav in site.data.rtca.navbar %}
-               {% if nav.visible %}
-               {% if page.url == nav.path %} 
-               <li class="nav-item active">
 
-                  <a class="nav-link m-1" href=".{{ nav.path }}">
-                     <strong>{{ nav.label | escape }}</strong>
-                     <span class="sr-only">(current)</span>
-                 </a>
-             </li>
-             {% else %} 
-             <li class="nav-item">
-              <a class="nav-link m-1" href=".{{ nav.path }}">
-                 <strong>{{ nav.label | escape }}</strong>
+
+     <div class="collapse navbar-collapse " id="navbarToggler">
+
+      <!-- <ul class="navbar-nav mx-auto text-center"> -->
+         <ul class="navbar-nav">
+            {% for nav in site.data.rtca.navbar %}
+            {% if nav.visible %}
+            {% if page.url == nav.path %} 
+            <li class="nav-item active">
+
+               <a class="nav-link m-1" href="{{ nav.path }}">
+                  <strong>{{ nav.label | escape }}</strong>
+                  <span class="sr-only">(current)</span>
+               </a>
+            </li>
+            {% else %} 
+            <li class="nav-item">
+             <a class="nav-link m-1" href="{{ nav.path }}">
+                <strong>{{ nav.label | escape }}</strong>
              </a>
-         </li>   
-         {% endif %}
-         {% endif %}
-         {% endfor %}
-     </ul>
+          </li>   
+          {% endif %}
+          {% endif %}
+          {% endfor %}
+       </ul>
+    </div>
+ </nav>
+
+ <nav class="nav navbar-toggleable-sm navbar-inverse">
+
+  <a id="brandlyon" class="navbar-brand">Lyon</a>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerlyon" aria-controls="navbarTogglerlyon"
+  aria-expanded="false" aria-label="Toggle navigation">
+  <span class="navbar-toggler-icon"></span>
+</button>
+
+
+
+<div class="collapse navbar-collapse " id="navbarTogglerlyon">
+
+   <!-- <ul class="navbar-nav mx-auto text-center"> -->
+      <ul class="navbar-nav">
+         {% for nav in site.data.rtca.navbarlyon %}
+         {% if nav.visible %}
+         {% if page.url == nav.path %} 
+         <li class="nav-item active">
+
+            <a class="nav-link m-1" href="{{ nav.path }}">
+               <strong>{{ nav.label | escape }}</strong>
+               <span class="sr-only">(current)</span>
+            </a>
+         </li>
+         {% else %} 
+         <li class="nav-item">
+          <a class="nav-link m-1" href="{{ nav.path }}">
+             <strong>{{ nav.label | escape }}</strong>
+          </a>
+       </li>   
+       {% endif %}
+       {% endif %}
+       {% endfor %}
+    </ul>
  </div>
-
-
 </nav>
+
+<nav class="nav navbar-toggleable-sm navbar-inverse">
+   
+  <a id="brandparis" class="navbar-brand">Paris</a>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerparis" aria-controls="navbarTogglerparis"
+  aria-expanded="false" aria-label="Toggle navigation">
+  <span class="navbar-toggler-icon"></span>
+</button>
+
+
+
+<div class="collapse navbar-collapse " id="navbarTogglerparis">
+
+   <!-- <ul class="navbar-nav mx-auto text-center"> -->
+      <ul class="navbar-nav">
+         {% for nav in site.data.rtca.navbarparis %}
+         {% if nav.visible %}
+         {% if page.url == nav.path %} 
+         <li class="nav-item active">
+
+            <a class="nav-link m-1" href="{{ nav.path }}">
+               <strong>{{ nav.label | escape }}</strong>
+               <span class="sr-only">(current)</span>
+            </a>
+         </li>
+         {% else %} 
+         <li class="nav-item">
+          <a class="nav-link m-1" href="{{ nav.path }}">
+             <strong>{{ nav.label | escape }}</strong>
+          </a>
+       </li>   
+       {% endif %}
+       {% endif %}
+       {% endfor %}
+    </ul>
+ </div>
+</nav>
+
 </div>
 
 

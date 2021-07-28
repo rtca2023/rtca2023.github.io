@@ -3,7 +3,7 @@
 
 navbar:
   - id: 0
-    label: RTCA home
+    label: Home
     path: /
     visible: True
   - id: 1
@@ -11,8 +11,59 @@ navbar:
     path: /organization.html
     visible: True
   - id: 2
-    label: Scientific Committee  
+    label: Sc. Committee  
     path: /committee.html
     visible: True
-
-
+  - id: 3
+    label: School & JNCF
+    path: /pages/todo.html
+    visible: True
+  - id: 4
+    label: Participation
+    path: /todo.html
+    visible: True
+  
+navbarlyon:
+  - id: 0
+    label: Courses
+    path: /todo.html
+    visible: True
+  - id: 1
+    label: Talks & Days 
+    path: /todo.html
+    visible: True
+  - id: 2
+    label: March. M1
+    path: /todo.html
+    visible: True
+  - id: 3
+    label: May M2
+    path: /todo.html
+    visible: True
+  - id: 4
+    label: June M3
+    path: /todo.html
+    visible: True
+  
+navbarparis:
+  - id: 0
+    label: Courses
+    path: /todo.html
+    visible: True
+  - id: 1
+    label: Talks & Days 
+    path: /todo.html
+    visible: True
+  - id: 2
+    label: Sept. M3
+    path: /todo.html
+    visible: True
+  - id: 3
+    label: Oct. M4
+    path: /todo.html
+    visible: True
+  - id: 4
+    label: Nov. Dec. M5
+    path: /todo.html
+    visible: True
+ 
