@@ -26,44 +26,44 @@ navbar:
 navbarlyon:
   - id: 0
     label: Courses
-    path: /todo.html
+    path: /pages/todo.html
     visible: True
   - id: 1
     label: Talks & Days 
-    path: /todo.html
+    path: /pages/todo.html
     visible: True
   - id: 2
     label: March. M1
-    path: /todo.html
+    path: /pages/todo.html
     visible: True
   - id: 3
     label: May M2
-    path: /todo.html
+    path: /pages/todo.html
     visible: True
   - id: 4
     label: June M3
-    path: /todo.html
+    path: /pages/todo.html
     visible: True
   
 navbarparis:
   - id: 0
     label: Courses
-    path: /todo.html
+    path: /pages/todo.html
     visible: True
   - id: 1
     label: Talks & Days 
-    path: /todo.html
+    path: /pages/todo.html
     visible: True
   - id: 2
     label: Sept. M3
-    path: /todo.html
+    path: /pages/todo.html
     visible: True
   - id: 3
     label: Oct. M4
-    path: /todo.html
+    path: /pages/todo.html
     visible: True
   - id: 4
     label: Nov. Dec. M5
-    path: /todo.html
+    path: /pages/todo.html
     visible: True
  
