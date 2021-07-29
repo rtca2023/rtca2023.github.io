@@ -233,7 +233,41 @@ form {
 }
 
 
+.newscontainer {
+  display: flex;
+  height: 140px;
+  width:100%;
+}
 
+.newsheader {
+  flex: 1;
+  background-color: gray;
+}
+
+.newsright {
+  flex: 5;
+  background-color: gray;
+  position: relative;
+}
+
+.newswrapper {
+  display: flex;
+  flex-flow: row wrap;
+  flex-direction: column;
+  background: red;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.newsbody {
+  flex: 6;
+  background-color: #888888;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
 
 /*******************************************************************************
 Full-Width Styles
@@ -246,7 +280,7 @@ Full-Width Styles
 .inner {
   position: relative;
   max-width: 80%;
-  padding: 20px 20px;
+  padding: 10px 20px;
   margin: 0 auto;
 }
 
@@ -271,7 +305,7 @@ Full-Width Styles
 }
 
 #header_wrap .inner {
-  padding: 20px 20px;
+  padding: 1px 20px;
 }
 
 #project_title {
@@ -342,7 +376,7 @@ Full-Width Styles
 
 
 /*******************************************************************************
-RTCA styles 
+RTCA styles in addition to other modifications 
 *******************************************************************************/
 
 
@@ -379,13 +413,17 @@ RTCA styles
   background: #414141 !important;
   border: 0px !important;
   color: #dddddd !important;
+  
 }
 
 .mynavthis {
   background: #414141 !important;
   border: 0px !important;
   color: #F29E24 !important;
+  
 }
+
+
 
 a.mynavthis{
   color: #F29E24 !important;
@@ -401,8 +439,8 @@ a.mynav:hover, a.mynav:focus {
   opacity: 1 !important;
 }
 
-#navothers{
-  padding: 20px;
+#navpadding{
+  padding: 20px 20px;
 }
 
 

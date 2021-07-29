@@ -4,6 +4,7 @@ page_site: RTCA
 page_id: 0
 ---
 
+
 ### Whole French year 2023 dedicated to computer algebra. 
 
 * Preparatory School, March 2023
