@@ -1,126 +1,92 @@
- <div  id="nav_wrap"  class="outer">
+ <div   class="outer" id="navothers">
 
- 	<!--navbar-->
- 	
-   <div class="mynav col-xs-6 col-sm-6 col-md-11 col-lg-3 col-xl-3">
 
-      <nav class="nav navbar-toggleable- navbar-inverse">
+   <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
 
-        <a id="brand" class="navbar-brand">RTCA</a>
 
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler"
-        aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
+      <!--   Menu general -->
+
+      <div class="btn-group" role="group">
+
+       {% if {{page.page_site}} == "RTCA" %}
+       <button id="btnGroupDrop1" type="button" class="btn btn-secondary dropdown-toggle mynavthis" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        RTCA
      </button>
+     {% else %}
+     <button id="btnGroupDrop1" type="button" class="btn btn-secondary dropdown-toggle mynav" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        RTCA 
+     </button>
+     {% endif %}
+
+     <div class="dropdown-menu mynav" aria-labelledby="btnGroupDrop1">
+      {% for nav in site.data.rtca.navbar %}
+      {% if page.url == nav.path %} 
+      <a class="dropdown-item mynavthis" href="{{ nav.path }}">{{ nav.label}}</a>
+      {% else %}
+      <a class="dropdown-item mynav" href="{{ nav.path }}">{{ nav.label}}</a>
+      {% endif %}
+      {% endfor %}
+      </div>
+
+      </div>
+
+   <!--   Menu Lyon  -->
+
+ <div class="btn-group" role="group">
+
+       {% if {{page.page_site}} == "Lyon" %}
+       <button id="btnGroupDrop2" type="button" class="btn btn-secondary dropdown-toggle mynavthis" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Lyon
+     </button>
+     {% else %}
+     <button id="btnGroupDrop2" type="button" class="btn btn-secondary dropdown-toggle mynav" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Lyon
+     </button>
+     {% endif %}
+
+     <div class="dropdown-menu mynav" aria-labelledby="btnGroupDrop2">
+      {% for nav in site.data.rtca.navbarlyon %}
+      {% if page.url == nav.path %} 
+      <a class="dropdown-item mynavthis" href="{{ nav.path }}">{{ nav.label}}</a>
+      {% else %}
+      <a class="dropdown-item mynav" href="{{ nav.path }}">{{ nav.label}}</a>
+      {% endif %}
+      {% endfor %}
+      </div>
+
+      </div>
+
+   <!--   Menu Paris  -->   
+
+<div class="btn-group" role="group">
+
+       {% if {{page.page_site}} == "Paris" %}
+       <button id="btnGroupDrop3" type="button" class="btn btn-secondary dropdown-toggle mynavthis" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+       Paris
+     </button>
+     {% else %}
+     <button id="btnGroupDrop3" type="button" class="btn btn-secondary dropdown-toggle mynav" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Paris
+     </button>
+     {% endif %}
+
+     <div class="dropdown-menu mynav" aria-labelledby="btnGroupDrop3">
+      {% for nav in site.data.rtca.navbarparis %}
+      {% if page.url == nav.path %} 
+      <a class="dropdown-item mynavthis" href="{{ nav.path }}">{{ nav.label}}</a>
+      {% else %}
+      <a class="dropdown-item mynav" href="{{ nav.path }}">{{ nav.label}}</a>
+      {% endif %}
+      {% endfor %}
+      </div>
+
+      </div>
 
 
+   </div> <!--  Groupe de boutons -->
 
-     <div class="collapse navbar-collapse" id="navbarToggler">
-
-      <!-- <ul class="navbar-nav mx-auto text-center"> -->
-         <ul class="navbar-nav">
-            {% for nav in site.data.rtca.navbar %}
-            {% if nav.visible %}
-            {% if page.url == nav.path %} 
-            <li class="nav-item active">
-
-               <a class="nav-link m-1" href="{{ nav.path }}">
-                  <strong>{{ nav.label | escape }}</strong>
-                  <span class="sr-only">(current)</span>
-               </a>
-            </li>
-            {% else %} 
-            <li class="nav-item">
-             <a class="nav-link m-1" href="{{ nav.path }}">
-                <strong>{{ nav.label | escape }}</strong>
-             </a>
-          </li>   
-          {% endif %}
-          {% endif %}
-          {% endfor %}
-       </ul>
-    </div>
- </nav>
-
- <nav class="nav navbar-toggleable- navbar-inverse">
-
-  <a id="brandlyon" class="navbar-brand">Lyon</a>
-
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerlyon" aria-controls="navbarTogglerlyon"
-  aria-expanded="false" aria-label="Toggle navigation">
-  <span class="navbar-toggler-icon"></span>
-</button>
-
-
-
-<div class="collapse navbar-collapse " id="navbarTogglerlyon">
-
-   <!-- <ul class="navbar-nav mx-auto text-center"> -->
-      <ul class="navbar-nav">
-         {% for nav in site.data.rtca.navbarlyon %}
-         {% if nav.visible %}
-         {% if page.url == nav.path %} 
-         <li class="nav-item active">
-
-            <a class="nav-link m-1" href="{{ nav.path }}">
-               <strong>{{ nav.label | escape }}</strong>
-               <span class="sr-only">(current)</span>
-            </a>
-         </li>
-         {% else %} 
-         <li class="nav-item">
-          <a class="nav-link m-1" href="{{ nav.path }}">
-             <strong>{{ nav.label | escape }}</strong>
-          </a>
-       </li>   
-       {% endif %}
-       {% endif %}
-       {% endfor %}
-    </ul>
- </div>
-</nav>
-
-<nav class="nav navbar-toggleable- navbar-inverse">
    
-  <a id="brandparis" class="navbar-brand">Paris</a>
+</div>  
 
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerparis" aria-controls="navbarTogglerparis"
-  aria-expanded="false" aria-label="Toggle navigation">
-  <span class="navbar-toggler-icon"></span>
-</button>
-
-
-
-<div class="collapse navbar-collapse " id="navbarTogglerparis">
-
-   <!-- <ul class="navbar-nav mx-auto text-center"> -->
-      <ul class="navbar-nav">
-         {% for nav in site.data.rtca.navbarparis %}
-         {% if nav.visible %}
-         {% if page.url == nav.path %} 
-         <li class="nav-item active">
-
-            <a class="nav-link m-1" href="{{ nav.path }}">
-               <strong>{{ nav.label | escape }}</strong>
-               <span class="sr-only">(current)</span>
-            </a>
-         </li>
-         {% else %} 
-         <li class="nav-item">
-          <a class="nav-link m-1" href="{{ nav.path }}">
-             <strong>{{ nav.label | escape }}</strong>
-          </a>
-       </li>   
-       {% endif %}
-       {% endif %}
-       {% endfor %}
-    </ul>
- </div>
-</nav>
-
-</div>
-
-
-</div>
 
 

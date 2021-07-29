@@ -101,8 +101,9 @@ a {
   text-shadow: none;
 }
 
+
 a:hover, a:focus {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 footer a {
@@ -340,7 +341,6 @@ Full-Width Styles
 }
 
 
-
 /*******************************************************************************
 RTCA styles 
 *******************************************************************************/
@@ -375,58 +375,38 @@ RTCA styles
   height:auto;
 }
 
-#nav_wrap {
-  background: #333;
-  width: 100%;
-}
-
-.nav {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0.8, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
-
-.nav {
-    border-radius: 1px;
-   
-}
-
 .mynav {
+  background: #414141 !important;
+  border: 0px !important;
+  color: #dddddd !important;
+}
 
-    padding-top: 10px;
-    padding-bottom: 12px;
+.mynavthis {
+  background: #414141 !important;
+  border: 0px !important;
+  color: #F29E24 !important;
+}
 
+a.mynavthis{
+  color: #F29E24 !important;
+}
+
+a.mynav{
+  color: #dddddd !important;
+  opacity: 0.6 !important;
+}
+
+a.mynav:hover, a.mynav:focus {
+  text-decoration: none !important;
+  opacity: 1 !important;
+}
+
+#navothers{
+  padding: 20px;
 }
 
 
-.nav {
-    background: #222;
-    font-size: 80%;
-}
 
-
-#brand {
-padding-bottom: 6px;
-  padding-left: 30px;
-  padding-right: 6px;
-  color: #F29E24;
-  font-size: 120%;
-}
-
-#brandparis {
-padding-bottom: 6px;
-  padding-left: 30px;
-  padding-right: 10px;
-  color: #999;
-  font-size: 120%;
-}
-
-#brandlyon {
-padding-bottom: 6px;
-  padding-left: 30px;
-  padding-right: 11px;
-  color: #999;
-  font-size: 120%;
-}
 
 /*******************************************************************************
 Small Device Styles

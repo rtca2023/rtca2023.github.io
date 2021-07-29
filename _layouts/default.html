@@ -7,19 +7,20 @@
   <meta name="viewport" content="width=device-width,maximum-scale=2">
   <title>{{ site.title }}</title>
   
+ 
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
   <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ"
-        crossorigin="anonymous">
- 
 </head>
 
   <body>
 
-    <!-- HEADER -->
-    {% if page.page_id == 0 %}
+
     <div id="header_wrap" class="outer">
 
+    <!-- HEADER INDEX GENERAL -->
+    {% if page.page_id == 0 %}
       <header class="inner">
 
         <div style="text-align: right">
@@ -31,24 +32,26 @@
 
        <h1 id="project_title"> {{ site.title }}</h1>
 
-
-
+      {% include navbar.html %}
      </header>
+     
+     <!-- HEADER AUTRES PAGES -->
+      {% else %}
+      <header> 
+      {% include navbar.html %}
+      </header>
+      {% endif %}
+
    </div>
-   {% endif %}
-
-   {% include navbar.html %}
-
  
     <!-- MAIN CONTENT --> 
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
+       
         {{ content }}
+
       </section>
     </div>
-
-
-
 
 
     <!-- FOOTER  -->
@@ -63,15 +66,12 @@
         <a href="https://www.gdr-im.fr" ><img  class="logo2" alt="logo GDR IM" src="{{ site.logo_url }}/assets/images/Logos/GDRIM.png" ></a> 
       </div>
          
-  
       </footer>
     </div>
 
-<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n"
-        crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb"
-        crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn"
-        crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+
+
   </body>
 </html>

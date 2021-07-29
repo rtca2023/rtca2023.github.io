@@ -1,6 +1,5 @@
 
 
-
 navbar:
   - id: 0
     label: Home
@@ -11,59 +10,59 @@ navbar:
     path: /organization.html
     visible: True
   - id: 2
-    label: Sc. Committee  
+    label: Scientific Committee  
     path: /committee.html
     visible: True
   - id: 3
-    label: School & JNCF
-    path: /pages/todo.html
+    label: JNCF School 
+    path: /pages_Luminy/jncf.html
     visible: True
   - id: 4
     label: Participation
-    path: /todo.html
+    path: /participation.html
     visible: True
   
 navbarlyon:
   - id: 0
     label: Courses
-    path: /pages/todo.html
+    path: /pages_Lyon/courses.html
     visible: True
   - id: 1
     label: Talks & Days 
-    path: /pages/todo.html
+    path: /pages_Lyon/talks.html
     visible: True
   - id: 2
     label: March. M1
-    path: /pages/todo.html
+    path: /pages_Lyon/m1.html
     visible: True
   - id: 3
     label: May M2
-    path: /pages/todo.html
+    path: /pages_Lyon/m2.html
     visible: True
   - id: 4
     label: June M3
-    path: /pages/todo.html
+    path: /pages_Lyon/m3.html
     visible: True
   
 navbarparis:
   - id: 0
     label: Courses
-    path: /pages/todo.html
+    path: /pages_Paris/courses.html
     visible: True
   - id: 1
     label: Talks & Days 
-    path: /pages/todo.html
+    path: /pages_Paris/talks.html
     visible: True
   - id: 2
-    label: Sept. M3
-    path: /pages/todo.html
+    label: Sept. M4
+    path: /pages_Paris/m4.html
     visible: True
   - id: 3
-    label: Oct. M4
-    path: /pages/todo.html
+    label: Oct. M5
+    path: /pages_Paris/m5.html
     visible: True
   - id: 4
-    label: Nov. Dec. M5
-    path: /pages/todo.html
+    label: Nov. Dec. M6
+    path: /pages_Paris/m6.html
     visible: True
  
