@@ -7,7 +7,7 @@ page_id: 0
 
 ### Whole French year 2023 dedicated to computer algebra. 
 
-* **Preparatory School** during  JNCF, March 2023, Luminy
+* **Preparatory School** during the [French Computer Algebra Days](https://www.lix.polytechnique.fr/~lecerf/jncf), March 2023, Luminy
 * **MiLyon trimester** March-June 2023 with three 1-week workshops:
   * *Effective Aspects in Diophantine Approximation*, organized by [B. Adamczewski](https://adamczewski.perso.math.cnrs.fr), {{site.bostan}}, {{site.salvy}}, [W. Zudilin](https://wain.mi.ras.ru)
   * *Certified and Symbolic-Numeric Computation*, organized by {{site.brisebarre}}, {{site.mahboubi}}, {{site.pous}}, {{site.salvy}}

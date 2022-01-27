@@ -14,7 +14,7 @@ page_id: 1
 
 * [C. Koutschan](http://www.koutschan.de) - RICAM, Linz, Austria
 
-* [M. Mishna](http://people.math.sfu.ca/~mmishna/){Marni Mishna} - Simon Fraser University, Canada
+* [M. Mishna](http://people.math.sfu.ca/~mmishna/) - Simon Fraser University, Canada
 
 * {{site.safey}} - Sorbonne Universit\'e, France
 
