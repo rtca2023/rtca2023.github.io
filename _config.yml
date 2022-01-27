@@ -3,7 +3,8 @@ name:
 description: 
 show_downloads: true
 google_analytics: 
-
+domain: rtca2023.github.io
+url: https://rtca2023.github.io
 logo_url: "http://rtca2023.github.io"
 
  

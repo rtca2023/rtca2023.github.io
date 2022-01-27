@@ -9,13 +9,13 @@ page_id: 0
 
 * **Preparatory School** during the [French Computer Algebra Days](https://www.lix.polytechnique.fr/~lecerf/jncf), March 2023, Luminy
 * **MiLyon trimester** March-June 2023 with three 1-week workshops:
-  * *Effective Aspects in Diophantine Approximation*, organized by [B. Adamczewski](https://adamczewski.perso.math.cnrs.fr), {{site.bostan}}, {{site.salvy}}, [W. Zudilin](https://wain.mi.ras.ru)
-  * *Certified and Symbolic-Numeric Computation*, organized by {{site.brisebarre}}, {{site.mahboubi}}, {{site.pous}}, {{site.salvy}}
-  * *Mathematical Software and High Performance Algebraic Computing*, organized by [W. Decker](https://www.mathematik.uni-kl.de/en/agag/people/head/prof-dr-wolfram-decker), [J.-G. Dumas](https://membres-ljk.imag.fr/Jean-Guillaume.Dumas/), [C. Pernet](https://membres-ljk.imag.fr/Clement.Pernet/), [E.Thomé](https://members.loria.fr/EThome/), {{site.villard}}
+  * [*Effective Aspects in Diophantine Approximation*]({% link pages_Lyon/m1.md %}), organized by [B. Adamczewski](https://adamczewski.perso.math.cnrs.fr), {{site.bostan}}, {{site.salvy}}, [W. Zudilin](https://wain.mi.ras.ru)
+  * [*Certified and Symbolic-Numeric Computation*]({% link pages_Lyon/m2.md %}), organized by {{site.brisebarre}}, {{site.mahboubi}}, {{site.pous}}, {{site.salvy}}
+  * [*Mathematical Software and High Performance Algebraic Computing*]({% link pages_Lyon/m3.md %}), organized by [W. Decker](https://www.mathematik.uni-kl.de/en/agag/people/head/prof-dr-wolfram-decker), [J.-G. Dumas](https://membres-ljk.imag.fr/Jean-Guillaume.Dumas/), [C. Pernet](https://membres-ljk.imag.fr/Clement.Pernet/), [E.Thomé](https://members.loria.fr/EThome/), {{site.villard}}
 * **IHP Paris Trimester** Fall 2023 with courses, topical days, seminars, general audience talks and three 1-week worshops:
-  * *Fundamental Algorithms and Algorithmic Complexity*, organized by [J. van der Hoeven](https://www.texmacs.org/joris/main/joris.html), {{site.giesbrecht}}, {{site.villard}}
-  * *Geometry of Polynomial System Solving, Optimization and Topology*, organized by [C. D'Andrea](http://www.ub.edu/arcades/cdandrea.html), {{site.safey}}, {{site.schost}}, [L. Zhi](http://www.mmrc.iss.ac.cn/~lzhi/) 
-  * *Computer Algebra for Functional Equations in Combinatorics and Physics*, organized by {{site.bostan}}, [T. Cluzeau](https://www.unilim.fr/pages_perso/thomas.cluzeau/), [L. Di Vizio](https://divizio.joomla.com/), [C. Krattenthaler](https://www.mat.univie.ac.at/~kratt/), [J.-M. Maillard](https://www.lptmc.jussieu.fr/users/maillard).
+  * [*Fundamental Algorithms and Algorithmic Complexity*]({% link pages_Paris/m4.md %}), organized by [J. van der Hoeven](https://www.texmacs.org/joris/main/joris.html), {{site.giesbrecht}}, {{site.villard}}
+  * [*Geometry of Polynomial System Solving, Optimization and Topology*]({% link pages_Paris/m5.md %}), organized by [C. D'Andrea](http://www.ub.edu/arcades/cdandrea.html), {{site.safey}}, {{site.schost}}, [L. Zhi](http://www.mmrc.iss.ac.cn/~lzhi/) 
+  * [*Computer Algebra for Functional Equations in Combinatorics and Physics*]({% link pages_Paris/m6.md %}), organized by {{site.bostan}}, [T. Cluzeau](https://www.unilim.fr/pages_perso/thomas.cluzeau/), [L. Di Vizio](https://divizio.joomla.com/), [C. Krattenthaler](https://www.mat.univie.ac.at/~kratt/), [J.-M. Maillard](https://www.lptmc.jussieu.fr/users/maillard).
 
 ## Context ##
 
