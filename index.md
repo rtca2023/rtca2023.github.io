@@ -7,22 +7,27 @@ page_id: 0
 
 ### Whole French year 2023 dedicated to computer algebra. 
 
-* **Preparatory School** during the [French Computer Algebra Days](https://www.lix.polytechnique.fr/~lecerf/jncf), March 2023, Luminy
-* **MiLyon trimester** March-June 2023 with three 1-week workshops:
-  * [*Effective Aspects in Diophantine Approximation*]({% link pages_Lyon/m1.md %}), organized by [B. Adamczewski](https://adamczewski.perso.math.cnrs.fr), {{site.bostan}}, {{site.salvy}}, [W. Zudilin](https://wain.mi.ras.ru)
-  * [*Certified and Symbolic-Numeric Computation*]({% link pages_Lyon/m2.md %}), organized by {{site.brisebarre}}, {{site.mahboubi}}, {{site.pous}}, {{site.salvy}}
-  * [*Mathematical Software and High Performance Algebraic Computing*]({% link pages_Lyon/m3.md %}), organized by [W. Decker](https://www.mathematik.uni-kl.de/en/agag/people/head/prof-dr-wolfram-decker), [J.-G. Dumas](https://membres-ljk.imag.fr/Jean-Guillaume.Dumas/), [C. Pernet](https://membres-ljk.imag.fr/Clement.Pernet/), [E.Thomé](https://members.loria.fr/EThome/), {{site.villard}}
+* **Preparatory School** during the [**French Computer Algebra Days**](https://www.lix.polytechnique.fr/~lecerf/jncf), early March 2023, Luminy.
+* **MiLyon trimester** Spring 2023, with three 1-week workshops:
+  * [**Effective Aspects in Diophantine Approximation**]({% link pages_Lyon/m1.md %}) (end of March)
+  <br/>Organized by [B. Adamczewski](https://adamczewski.perso.math.cnrs.fr), {{site.bostan}}, {{site.salvy}}, [W. Zudilin](https://wain.mi.ras.ru).
+  * [**Certified and Symbolic-Numeric Computation**]({% link pages_Lyon/m2.md %}) (end of May)<br/> Organized by {{site.brisebarre}}, {{site.mahboubi}}, {{site.pous}}, {{site.salvy}}.
+  * [**Mathematical Software and High Performance Algebraic Computing**]({% link pages_Lyon/m3.md %}) (June 26-30)<br/> Organized by [W. Decker](https://www.mathematik.uni-kl.de/en/agag/people/head/prof-dr-wolfram-decker), [J.-G. Dumas](https://membres-ljk.imag.fr/Jean-Guillaume.Dumas/), [C. Pernet](https://membres-ljk.imag.fr/Clement.Pernet/), [E.Thomé](https://members.loria.fr/EThome/), {{site.villard}}.
 * **IHP Paris Trimester** Fall 2023 with courses, topical days, seminars, general audience talks and three 1-week worshops:
-  * [*Fundamental Algorithms and Algorithmic Complexity*]({% link pages_Paris/m4.md %}), organized by [J. van der Hoeven](https://www.texmacs.org/joris/main/joris.html), {{site.giesbrecht}}, {{site.villard}}
-  * [*Geometry of Polynomial System Solving, Optimization and Topology*]({% link pages_Paris/m5.md %}), organized by [C. D'Andrea](http://www.ub.edu/arcades/cdandrea.html), {{site.safey}}, {{site.schost}}, [L. Zhi](http://www.mmrc.iss.ac.cn/~lzhi/) 
-  * [*Computer Algebra for Functional Equations in Combinatorics and Physics*]({% link pages_Paris/m6.md %}), organized by {{site.bostan}}, [T. Cluzeau](https://www.unilim.fr/pages_perso/thomas.cluzeau/), [L. Di Vizio](https://divizio.joomla.com/), [C. Krattenthaler](https://www.mat.univie.ac.at/~kratt/), [J.-M. Maillard](https://www.lptmc.jussieu.fr/users/maillard).
+  * [**Fundamental Algorithms and Algorithmic Complexity**]({% link pages_Paris/m4.md %}) (September 25-29)<br/>Organized by [J. van der Hoeven](https://www.texmacs.org/joris/main/joris.html), {{site.giesbrecht}}, 
+  [P. Koiran](http://perso.ens-lyon.fr/pascal.koiran)
+  {{site.villard}}.
+  * [**Geometry of Polynomial System Solving, Optimization and Topology**]({% link pages_Paris/m5.md %}) (October 16-20)<br/> Organized by [C. D'Andrea](http://www.ub.edu/arcades/cdandrea.html), {{site.safey}}, {{site.schost}}, [L. Zhi](http://www.mmrc.iss.ac.cn/~lzhi/).
+  * [**Computer Algebra for Functional Equations in Combinatorics and Physics**]({% link pages_Paris/m6.md %}) (December 8-12)<br/> Organized by {{site.bostan}}, 
+  [J. Bouttier](https://www.ipht.fr/Pisp/jeremie.bouttier),
+  [T. Cluzeau](https://www.unilim.fr/pages_perso/thomas.cluzeau/), [L. Di Vizio](https://divizio.joomla.com/), [C. Krattenthaler](https://www.mat.univie.ac.at/~kratt/), [J.-M. Maillard](https://www.lptmc.jussieu.fr/users/maillard).
 
 ## Context ##
 
 *Computer algebra*, a.k.a. *symbolic computation*, is a broad transdisciplinary area which aims at computerizing mathematics, i.e. solving *exactly* mathematical problems, using computers. Hence, it encompasses effective mathematics in algebra, analysis, geometry and number theory, the design of algorithms, the study of their complexities, their implementations and their use in applications, as well as software system aspects to manipulate and encode efficiently mathematical objects. 
 
 Computer algebra was born in the 60's from several directions. To cite a few, let us mention 
-the need for lengthy and reliable computations by physicists; results in logic showing that the problem of simplification is undecidable; results in differential algebra leading to Risch's decision algorithm for symbolic integration; fast algorithms for polynomial gcd and factorization; the invention of Gr\"obner bases for polynomial ideals; and the realization of the importance of complexity estimates for these algorithms due to the large size of the objects they  computed with. These directions shaped the landscape of our discipline and are still very much active today.
+the need for lengthy and reliable computations by physicists; results in logic showing that the problem of simplification is undecidable; results in differential algebra leading to Risch's decision algorithm for symbolic integration; fast algorithms for polynomial gcd and factorization; the invention of Gröbner bases for polynomial ideals; and the realization of the importance of complexity estimates for these algorithms due to the large size of the objects they  computed with. These directions shaped the landscape of our discipline and are still very much active today.
 
 The next decades saw the blossoming of the area. New computer algebra systems were born and reached millions of users; a large number of researchers were attracted by the novelty of this area; journals and conferences were created. The interactions with effective algebraic geometry on the one side and with differential algebra on the other side were deepened and strengthened. Efficiency issues led to the design and implementation of numerous specialized libraries. A large body of knowledge on algebraic algorithms and their complexity was developed. Specialized books made the area accessible to a wider audience.
 
