@@ -12,9 +12,9 @@ The composition of the SC supporting these events reflects the intrinsic pluridi
 
 #### Scientific Committee 
 
-* [Mireille Bousquet-Mélou](https://www.labri.fr/perso/bousquet/)  (CNRS, Bordeaux, France)
+* [M. Bousquet-Mélou](https://www.labri.fr/perso/bousquet/)  (CNRS, Bordeaux, France)
 
-* [Peter Bürgisser](https://www.math.tu-berlin.de/fachgebiete_ag_diskalg/fachgebiet_algorithmische_algebra/v_menue/members/prof_dr_peter_buergisser/) (TU, Berlin, Germany)
+* [P. Bürgisser](https://www.math.tu-berlin.de/fachgebiete_ag_diskalg/fachgebiet_algorithmische_algebra/v_menue/members/prof_dr_peter_buergisser/) (TU, Berlin, Germany)
 
 * [A. Dickenstein](http://mate.dm.uba.ar/~alidick/) (U. Buenos Aires, Argentina)
 
@@ -48,7 +48,7 @@ The composition of the SC supporting these events reflects the intrinsic pluridi
 * [L. Zhi](http://mmrc.iss.ac.cn/~lzhi/)
   (AMSS, Beijing, China) 
 
-* [W. Zudilin](http://wain.mi.ras.ru) (Nijmegen, Netherlands)}
+* [W. Zudilin](http://wain.mi.ras.ru) (Nijmegen, Netherlands)
 
   
 
