@@ -23,10 +23,10 @@ navbar:
     visible: True
   
 navbarlyon:
-  - id: 0
-    label: Courses
-    path: /pages_Lyon/courses.html
-    visible: True
+  #- id: 0
+  #  label: Courses
+  #  path: /pages_Lyon/courses.html
+  #  visible: True
   - id: 1
     label: Talks & Days 
     path: /pages_Lyon/talks.html

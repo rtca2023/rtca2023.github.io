@@ -6,6 +6,9 @@ page_id: 1
 
 ### <center> Recent Trends in Computer Algebra 2023</center>
 
+
+**General information contact:** [rtca2023@sciencesconf.org](mailto:rtca2023@sciencesconf.org)
+
 #### Organizers
 
 * {{site.bostan}} - Inria, Saclay, France 

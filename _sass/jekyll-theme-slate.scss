@@ -103,7 +103,7 @@ a {
 
 
 a:hover, a:focus {
-  text-decoration: none;
+  text-decoration: none; 
 }
 
 footer a {
@@ -319,6 +319,25 @@ Full-Width Styles
   padding-bottom: 20px;
 
 }
+
+#contact_title {
+
+  margin: 0;
+  color: #dddddd;
+  font-size: 14px;
+  font-weight: 700;
+  text-shadow: #111 0px 0px 10px;
+  padding-top: 0px;
+  padding-bottom: 20px;
+
+}
+
+.contacttitle{
+  color: #dddddd;
+}
+
+
+
 
 #downloads {
   position: absolute;
