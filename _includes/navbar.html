@@ -44,7 +44,7 @@
      </button>
      {% endif %}
 
-     <div class="dropdown-menu mynav" aria-labelledby="btnGroupDrop2">
+     <div class="dropdown-menu  mynav" aria-labelledby="btnGroupDrop2">
       {% for nav in site.data.rtca.navbarlyon %}
       {% if page.url == nav.path %} 
       <a class="dropdown-item mynavthis" href="{{ nav.path }}">{{ nav.label}}</a>
