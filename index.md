@@ -7,7 +7,7 @@ page_id: 0
 
 ### Whole French year 2023 dedicated to computer algebra. 
 
-**Preparatory School** during the [*French Computer Algebra Days*](https://www.lix.polytechnique.fr/~lecerf/jncf), early March 2023, Luminy.
+**Preparatory School** during the [*French Computer Algebra Days*](https://gt-cf.cnrs.fr/jncf), March 6-10, Luminy.
 
 
 **MiLyon trimester** Spring 2023, with three 1-week workshops:
@@ -21,7 +21,7 @@ page_id: 0
     [P. Koiran](http://perso.ens-lyon.fr/pascal.koiran)
     {{site.villard}}.
   * [*Geometry of Polynomial System Solving, Optimization and Topology*]({% link pages_Paris/m5.md %}) (October 16-20)<br/>&nbsp;&nbsp;&nbsp; Organized by [C. D'Andrea](http://www.ub.edu/arcades/cdandrea.html), {{site.safey}}, {{site.schost}}, [L. Zhi](http://www.mmrc.iss.ac.cn/~lzhi/).
-  * [*Computer Algebra for Functional Equations in Combinatorics and Physics*]({% link pages_Paris/m6.md %}) (December 8-12)<br/>&nbsp;&nbsp;&nbsp; Organized by {{site.bostan}}, 
+  * [*Computer Algebra for Functional Equations in Combinatorics and Physics*]({% link pages_Paris/m6.md %}) (December 4-8)<br/>&nbsp;&nbsp;&nbsp; Organized by {{site.bostan}}, 
     [J. Bouttier](https://www.ipht.fr/Pisp/jeremie.bouttier),
     [T. Cluzeau](https://www.unilim.fr/pages_perso/thomas.cluzeau/), [L. Di Vizio](https://divizio.joomla.com/), [C. Krattenthaler](https://www.mat.univie.ac.at/~kratt/), [J.-M. Maillard](https://www.lptmc.jussieu.fr/users/maillard).
 

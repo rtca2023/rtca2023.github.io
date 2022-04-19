@@ -27,10 +27,10 @@ navbarlyon:
   #  label: Courses
   #  path: /pages_Lyon/courses.html
   #  visible: True
-  - id: 1
-    label: Talks & Days 
-    path: /pages_Lyon/talks.html
-    visible: True
+  #- id: 1
+   # label: Talks & Days 
+    #path: /pages_Lyon/talks.html
+    #visible: True
   - id: 2
     label: March. M1
     path: /pages_Lyon/m1.html
@@ -45,14 +45,14 @@ navbarlyon:
     visible: True
   
 navbarparis:
-  - id: 0
-    label: Courses
-    path: /pages_Paris/courses.html
-    visible: True
-  - id: 1
-    label: Talks & Days 
-    path: /pages_Paris/talks.html
-    visible: True
+  #- id: 0
+   # label: Courses
+    #path: /pages_Paris/courses.html
+    #visible: True
+  #- id: 1
+   # label: Talks & Days 
+    #path: /pages_Paris/talks.html
+    #visible: True
   - id: 2
     label: Sept. M4
     path: /pages_Paris/m4.html
