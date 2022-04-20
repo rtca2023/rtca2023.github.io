@@ -333,7 +333,7 @@ Full-Width Styles
   margin: 0;
   color: #dddddd;
   font-size: 16px;
-  font-weight: 700;
+  font-weight: 100;
   text-shadow: #111 0px 0px 10px;
   padding-top: 0px;
   padding-bottom: 20px;
@@ -435,6 +435,12 @@ RTCA styles in addition to other modifications
   width: 240px;
   height:auto;
 }
+
+.logo3 {
+  width: 140px;
+  height:auto;
+}
+
 
 .mynav {
   background: #414141 !important;
