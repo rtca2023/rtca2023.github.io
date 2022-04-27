@@ -21,9 +21,9 @@ page_id: 1
 
 * {{site.safey}} - Sorbonne Universit\'e, France
 
-* {{site.salvy}} - Inria, ENS Lyon, UCBL, France
+* {{site.salvy}} - Inria, CNRS, ENS Lyon, UCBL, France
 
-* {{site.villard}} - CNRS, ENS Lyon, UCBL, France
+* {{site.villard}} - CNRS, ENS Lyon, Inria, UCBL, France
 
   
 
