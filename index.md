@@ -11,7 +11,7 @@ page_id: 0
 
 
 **MiLyon trimester** Spring 2023, with three 1-week workshops:
-  * [*Effective Aspects in Diophantine Approximation*]({% link pages_Lyon/m1.md %}) (March 27-30)
+  * [*Effective Aspects in Diophantine Approximation*]({% link pages_Lyon/m1.md %}) (March 27-31)
     <br/>&nbsp;&nbsp;&nbsp; Organized by [B. Adamczewski](https://adamczewski.perso.math.cnrs.fr), {{site.bostan}}, {{site.salvy}}, [W. Zudilin](https://wain.mi.ras.ru).
   * [*Certified and Symbolic-Numeric Computation*]({% link pages_Lyon/m2.md %}) (May 22-26)<br/>&nbsp;&nbsp;&nbsp; Organized by {{site.brisebarre}}, {{site.mahboubi}}, {{site.pous}}, {{site.salvy}}.
   * [*Mathematical Software and High Performance Algebraic Computing*]({% link pages_Lyon/m3.md %}) (June 26-30)<br/>&nbsp;&nbsp;&nbsp; Organized by [W. Decker](https://www.mathematik.uni-kl.de/en/agag/people/head/prof-dr-wolfram-decker), [J.-G. Dumas](https://membres-ljk.imag.fr/Jean-Guillaume.Dumas/), [C. Pernet](https://membres-ljk.imag.fr/Clement.Pernet/), [E.Thomé](https://members.loria.fr/EThome/), {{site.villard}}.
