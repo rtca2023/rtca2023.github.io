@@ -16,7 +16,7 @@ page_id: 0
   * [*Certified and Symbolic-Numeric Computation*]({% link pages_Lyon/m2.md %}) (May 22-26)<br/>&nbsp;&nbsp;&nbsp; Organized by {{site.brisebarre}}, {{site.mahboubi}}, {{site.pous}}, {{site.salvy}}.
   * [*Mathematical Software and High Performance Algebraic Computing*]({% link pages_Lyon/m3.md %}) (June 26-30)<br/>&nbsp;&nbsp;&nbsp; Organized by [W. Decker](https://www.mathematik.uni-kl.de/en/agag/people/head/prof-dr-wolfram-decker), [J.-G. Dumas](https://membres-ljk.imag.fr/Jean-Guillaume.Dumas/), [C. Pernet](https://membres-ljk.imag.fr/Clement.Pernet/), [E. Thomé](https://members.loria.fr/EThome/), {{site.villard}}.
 
-**IHP Paris Trimester** Fall 2023 with courses, topical days, seminars, general audience talks and three 1-week worshops:
+**IHP Paris Trimester** Fall 2023 with courses, topical days, seminars, general audience talks and three 1-week workshops:
   * [*Fundamental Algorithms and Algorithmic Complexity*]({% link pages_Paris/m4.md %}) (September 25-29)<br/>&nbsp;&nbsp;&nbsp; Organized by [J. van der Hoeven](https://www.texmacs.org/joris/main/joris.html), {{site.giesbrecht}}, 
     [P. Koiran](http://perso.ens-lyon.fr/pascal.koiran),
     {{site.villard}}.
