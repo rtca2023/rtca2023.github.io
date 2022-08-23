@@ -20,10 +20,9 @@ page_id: 0
   * [*Fundamental Algorithms and Algorithmic Complexity*]({% link pages_Paris/m4.md %}) (September 25-29)<br/>&nbsp;&nbsp;&nbsp; Organized by [J. van der Hoeven](https://www.texmacs.org/joris/main/joris.html), {{site.giesbrecht}}, 
     [P. Koiran](http://perso.ens-lyon.fr/pascal.koiran),
     {{site.villard}}.
-  * [*Geometry of Polynomial System Solving, Optimization and Topology*]({% link pages_Paris/m5.md %}) (October 16-20)<br/>&nbsp;&nbsp;&nbsp; Organized by [C. D'Andrea](http://www.ub.edu/arcades/cdandrea.html), {{site.safey}}, {{site.schost}}, [L. Zhi](http://www.mmrc.iss.ac.cn/~lzhi/).
+  * [*Geometry of Polynomial System Solving, Optimization and Topology*]({% link pages_Paris/m5.md %}) (October 16-20)<br/>&nbsp;&nbsp;&nbsp; Organized by [C. D'Andrea](http://www.ub.edu/arcades/cdandrea.html), {{site.lairez}}, {{site.safey}}, {{site.schost}}, [L. Zhi](http://www.mmrc.iss.ac.cn/~lzhi/).
   * [*Computer Algebra for Functional Equations in Combinatorics and Physics*]({% link pages_Paris/m6.md %}) (December 4-8)<br/>&nbsp;&nbsp;&nbsp; Organized by {{site.bostan}}, 
-    [J. Bouttier](https://www.ipht.fr/Pisp/jeremie.bouttier),
-    [T. Cluzeau](https://www.unilim.fr/pages_perso/thomas.cluzeau/), [L. Di Vizio](https://divizio.joomla.com/), [C. Krattenthaler](https://www.mat.univie.ac.at/~kratt/), [J.-M. Maillard](https://www.lptmc.jussieu.fr/users/maillard).
+    [J. Bouttier](https://www.ipht.fr/Pisp/jeremie.bouttier), [T. Cluzeau](https://www.unilim.fr/pages_perso/thomas.cluzeau/), [L. Di Vizio](https://divizio.joomla.com/), [C. Krattenthaler](https://www.mat.univie.ac.at/~kratt/), {{site.lairez}}, [J.-M. Maillard](https://www.lptmc.jussieu.fr/users/maillard).
 
 ## Context ##
 
