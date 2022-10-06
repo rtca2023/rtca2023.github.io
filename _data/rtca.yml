@@ -21,6 +21,10 @@ navbar:
     label: Participation
     path: /participation.html
     visible: True
+  - id: 5
+    label: Code of Conduct
+    path: /code_of_conduct.html
+    visible: True
   
 navbarlyon:
   #- id: 0
