@@ -5,4 +5,5 @@ page_site: RTCA
 page_id: 1
 ---
 
-#### To come 
+[Journées Nationales de Calcul Formel 2023
+CIRM, Luminy, 6 - 10 mars 2023](https://sourcesup.renater.fr/www/orga-jncf)
