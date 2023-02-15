@@ -7,7 +7,7 @@ page_id: 0
 
 ### Whole French year 2023 dedicated to computer algebra. 
 
-**Preparatory School** during the [*French Computer Algebra Days*](https://gt-cf.cnrs.fr/jncf), March 6-10, Luminy.
+**Preparatory School** during the [*French Computer Algebra Days*](https://sourcesup.renater.fr/www/orga-jncf), March 6-10, Luminy.
 
 
 **MiLyon trimester** Spring 2023, with three 1-week workshops:
