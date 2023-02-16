@@ -5,6 +5,8 @@ page_id: 100
 ---
 
 
+Registrations are with no fees but mandatory.
+
 Registration links may be found here and from the respective pages of the 6 periods and workshops: 
 
 - Effective Aspects in Diophantine Approximation, 
