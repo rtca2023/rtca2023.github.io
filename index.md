@@ -26,7 +26,7 @@ page_id: 0
 
 ## Context ##
 
-*Computer algebra*, a.k.a. *symbolic computation*, is a broad transdisciplinary area which aims at computerizing mathematics, i.e. solving *exactly* mathematical problems, using computers. Hence, it encompasses effective mathematics in algebra, analysis, geometry and number theory, the design of algorithms, the study of their complexities, their implementations and their use in applications, as well as software system aspects to manipulate and encode efficiently mathematical objects. 
+**Computer algebra**, a.k.a. **symbolic computation**, is a broad transdisciplinary area which aims at computerizing mathematics, i.e. solving *exactly* mathematical problems, using computers. Hence, it encompasses effective mathematics in algebra, analysis, geometry and number theory, the design of algorithms, the study of their complexities, their implementations and their use in applications, as well as software system aspects to manipulate and encode efficiently mathematical objects. 
 
 Computer algebra was born in the 60's from several directions. To cite a few, let us mention 
 the need for lengthy and reliable computations by physicists; results in logic showing that the problem of simplification is undecidable; results in differential algebra leading to Risch's decision algorithm for symbolic integration; fast algorithms for polynomial gcd and factorization; the invention of Gröbner bases for polynomial ideals; and the realization of the importance of complexity estimates for these algorithms due to the large size of the objects they  computed with. These directions shaped the landscape of our discipline and are still very much active today.
@@ -44,7 +44,7 @@ biology and theoretical physics in engineering sciences.
 ## Content and objectives of the quarters
 
 Because of the sophistication of these high performance implementations, combined with the use of 
-Monte Carlo pro\-babilistic algorithms,
+Monte Carlo probabilistic algorithms,
 *reliability issues* were raised. Certification from various viewpoints and methodologies 
 emerged. Especially, 
 interactions between computer algebra and theorem provers increased significantly during the last decade.
