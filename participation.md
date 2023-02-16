@@ -1,5 +1,6 @@
 ---
 layout: default
+page_site: RTCA
 page_id: 100
 ---
 
@@ -19,10 +20,10 @@ registration, week June 26 to 30, 2023, Lyon
 - Computer Algebra for Functional Equations in Combinatorics and Physics, 
 [registration](https://indico.math.cnrs.fr/event/8115/registrations), period November 27 - December 11, 2023, Paris
 
-We may arrange some exceptional funding to help students or researchers who want to attend. In case of funding request please **also register before March 15** here:
-	[detailed IHP trimester registration](https://indico.math.cnrs.fr/event/8112/registrations/703), specifying the context of your request.
-
 
 **General information contact:** [rtca2023@sciencesconf.org](mailto:rtca2023@sciencesconf.org)
 
 **Administrative contact concerning IHP Paris:** [RTCA2023-Paris@ihp.fr](mailto:RTCA2023-Paris@ihp.fr)
+
+Only for IHP trimester at Paris: we may arrange some exceptional funding to help students or researchers who want to attend. In case of funding request please **also register before March 15** here:
+	[detailed IHP trimester registration](https://indico.math.cnrs.fr/event/8112/registrations/703), specifying the context of your request.
