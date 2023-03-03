@@ -45,11 +45,12 @@ in order to apply them well beyond what can be calculated by hand.
       <th style="text-align: center"> </th>
       <th>Monday 27/03/2023</th>
     </tr>
-<tr><td> 09:30-10:30</td><td><a href="https://www.math.u-bordeaux.fr/~hecohen/">Henri Cohen</a></td><td>Modular, algebraic, and Γ-evaluations of hypergeometric series</td></tr>
+<tr><td> 09:30-10:30</td><td><a href="http://apoels-math-u.net">Anthony Poëls</a></td><td>Padé approximation for a class of hypergeometric functions</td></tr>
 <tr><td> 10:30-11:00</td><td></td><td> coffee+tea break</td></tr>
 <tr><td> 11:00-12:00</td><td><a href="https://vallee.users.greyc.fr">Brigitte Vallée</a></td><td>Analysis of generalized continued fraction algorithms over polynomials</td></tr>
 <tr><td> 12:30-15:00</td><td></td><td> lunch</td></tr>
-<tr><td> 15:00-16:00</td><td><a href="http://apoels-math-u.net">Anthony Poëls</a></td><td>Padé approximation for a class of hypergeometric functions</td></tr>
+<tr><td> 15:00-16:00</td>td><a href="https://www.math.u-bordeaux.fr/~hecohen/">Henri Cohen</a></td><td>Modular, algebraic, and Γ-evaluations of hypergeometric series</td>
+</tr>
 <tr><td> 16:00-16:30</td><td></td><td>coffee+tea break</td></tr>
 <tr><td> 16:30-17:30</td><td><a href="https://www.ias.edu/scholars/vesselin-dimitrov">Vesselin Dimitrov</a></td><td> p-adic Eisenstein series, arithmetic holonomicity criteria, and irrationality of the 2-adic $\zeta(5)$</td></tr>
 	<tr>
