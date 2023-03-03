@@ -50,6 +50,9 @@ navbarlyon:
   # - id: 5
   #   label: March M1 (tmp)
   #   path: /pages_Lyon/m1-tmp.html
+  # - id: 6
+  #   label: March M2 (tmp)
+  #   path: /pages_Lyon/m2-tmp.html
   
 navbarparis:
   #- id: 0
