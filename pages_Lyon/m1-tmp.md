@@ -36,7 +36,7 @@ in order to apply them well beyond what can be calculated by hand.
 
 **[Recommended hotels]({% link hotels_lyon.md %})**
 
-**Tentative Programme**
+**Preliminary Program**
 
 <table>
 	<tbody>
