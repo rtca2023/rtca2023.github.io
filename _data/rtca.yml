@@ -36,7 +36,7 @@ navbarlyon:
     #path: /pages_Lyon/talks.html
     #visible: True
   - id: 2
-    label: March. M1
+    label: March M1
     path: /pages_Lyon/m1.html
     visible: True
   - id: 3
@@ -47,6 +47,9 @@ navbarlyon:
     label: June M3
     path: /pages_Lyon/m3.html
     visible: True
+  # - id: 5
+  #   label: March M1 (tmp)
+  #   path: /pages_Lyon/m1-tmp.html
   
 navbarparis:
   #- id: 0

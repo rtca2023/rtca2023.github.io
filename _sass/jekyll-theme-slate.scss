@@ -213,6 +213,7 @@ table {
   border: 1px solid #373737;
   margin-bottom: 20px;
   text-align: left;
+  width: 100%;
  }
 
 th {
@@ -226,6 +227,10 @@ td {
   padding: 10px;
   border: 1px solid #373737;
  }
+
+tr:nth-child(even) {
+            background-color: Lightgray;
+        }
 
 form {
   background: #f2f2f2;
