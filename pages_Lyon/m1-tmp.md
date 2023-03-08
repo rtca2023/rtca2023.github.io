@@ -74,7 +74,7 @@ in order to apply them well beyond what can be calculated by hand.
 <tr><td>11:00-12:00</td><td><a href="https://www.imo.universite-paris-saclay.fr/~fischler/">Stéphane Fischler</a></td><td>Effective algebraic independence of values of E-functions</td></tr>
 <tr><td>12:30-15:00</td><td></td><td>  lunch</td></tr>
 <tr><td>15:00-20:00</td><td></td><td>  free afternoon (coffee+tea at 16:00 for those who stay) </td></tr>
-<tr><td>20:00</td><td></td><td>  banquet</td></tr>
+<tr><td>20:00</td><td></td><td>dinner at <a href="https://www.lebistrotdupotager.com/bistrot/le-bistrot-stalingrad/">Le Bistrot Stalingrad</a></td></tr>
 	<tr>
       <th> </th>
       <th style="text-align: center"> </th>
@@ -99,6 +99,7 @@ in order to apply them well beyond what can be calculated by hand.
 <tr><td>12:30-15:00</td><td></td><td> lunch </td></tr>
 </tbody>
 </table>
+
 
 
 **[Code of Conduct]({% link code_of_conduct.md %})**
