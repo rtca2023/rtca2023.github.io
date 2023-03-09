@@ -100,7 +100,39 @@ in order to apply them well beyond what can be calculated by hand.
 </tbody>
 </table>
 
+**Abstracts of the talks**
 
+- [Nicolas Brisebarre](http://perso.ens-lyon.fr/nicolas.brisebarre/), Lyon, France
+- [Francis Brown](https://www.maths.ox.ac.uk/people/francis.brown), Oxford, UK
+- [François Brunault](http://perso.ens-lyon.fr/francois.brunault/), Lyon, France
+- [Yann Bugeaud](https://irma.math.unistra.fr/~bugeaud/), Strasbourg, France   
+- [Henri Cohen](https://www.math.u-bordeaux.fr/~hecohen/), Bordeaux, France
+- [Éric Delaygue](https://sites.google.com/site/ericdelaygue/), Lyon, France
+- [Vesselin Dimitrov](https://www.ias.edu/scholars/vesselin-dimitrov), Princeton, USA
+- 
+<details>
+<summary>
+[Stéphane Fischler](https://www.imo.universite-paris-saclay.fr/~fischler/), Orsay, France
+<i>Padé approximation for a class of hypergeometric functions</i>
+</summary>
+<p><b>The class of E-functions has been introduced by Siegel in 1929; it contains the exponential and Bessel functions. Given a finite family of algebraically independent E-functions, we consider the set S of algebraic points at which their values are algebraically dependent. The Siegel-Shidlovskii theorem, proved in 1955 and refined by several authors, implies that S is finite. The aim of this talk is to give an algorithm that allows one to determine S. It is a joint work with Tanguy Rivoal.</b></p>
+</details>
+- [Mark van Hoeij](https://www.math.fsu.edu/~hoeij/), Tallahassee, Florida, USA
+- [Christoph Koutschan](http://www.koutschan.de), Linz, Austria
+- [Pierre Lairez](https://pierre.lairez.fr), Palaiseau, France
+- 
+<details>
+<summary>
+[Anthony Poëls](http://apoels-math-u.net), Lyon, France
+<i>Padé approximation for a class of hypergeometric functions</i>
+</summary>
+<p><b>In a recent work in collaboration with Makoto Kawashima with established new (effective) irrationality measures for values of functions which belong to a certain class of hypergeometric functions (including shifted logarithmic functions and binomial functions). In this talk, we will try to explain the ideas behind our proofs and constructions.
+</b></p>
+</details>
+- [Tanguy Rivoal](https://rivoal.perso.math.cnrs.fr), Grenoble, France
+- [Brigitte Vallée](https://vallee.users.greyc.fr), Caen, France
+- [Masha Vlasenko](https://www.imath.kiev.ua/~mariyka/), Warsaw, Poland
+- [James Worrell](https://www.cs.ox.ac.uk/people/james.worrell/home.html), Oxford, UK
 
 **[Code of Conduct]({% link code_of_conduct.md %})**
 
