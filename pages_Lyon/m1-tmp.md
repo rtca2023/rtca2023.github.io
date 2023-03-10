@@ -113,7 +113,7 @@ in order to apply them well beyond what can be calculated by hand.
 - [Stéphane Fischler](https://www.imo.universite-paris-saclay.fr/~fischler/), Orsay, France
 <details>
 <summary>
-<i>Padé approximation for a class of hypergeometric functions</i>
+<i>Effective algebraic independence of values of E-functions</i>
 </summary>
 <p><b>The class of E-functions has been introduced by Siegel in 1929; it contains the exponential and Bessel functions. Given a finite family of algebraically independent E-functions, we consider the set S of algebraic points at which their values are algebraically dependent. The Siegel-Shidlovskii theorem, proved in 1955 and refined by several authors, implies that S is finite. The aim of this talk is to give an algorithm that allows one to determine S. It is a joint work with Tanguy Rivoal.</b></p>
 </details>
