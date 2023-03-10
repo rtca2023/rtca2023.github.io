@@ -60,7 +60,7 @@ in order to apply them well beyond what can be calculated by hand.
 <tr><td>10:30-11:00</td><td></td><td> coffee+tea break</td></tr>
 <tr><td>11:00-12:00</td><td><a href="https://pierre.lairez.fr">Pierre Lairez</a></td><td> Numerical periods and effective algebraic geometry</td></tr>
 <tr><td>12:30-15:00</td><td></td><td>  lunch</td></tr>
-<tr><td>15:00-16:00</td><td><a href="https://rivoal.perso.math.cnrs.fr">Tanguy Rivoal</a></td><td>Linear independence of values of G-functions</td></tr>
+<tr><td>15:00-16:00</td><td><a href="https://rivoal.perso.math.cnrs.fr">Tanguy Rivoal</a></td><td>Linear independence of values of $G$-functions</td></tr>
 <tr><td>16:00-16:30</td><td></td><td> coffee+tea break</td></tr>
 <tr><td>16:30-17:30</td><td><a href="https://www.math.fsu.edu/~hoeij/">Mark van Hoeij</a></td><td> Factoring linear recurrence operators and applications</td></tr>
 <tr><td>17:30-18:30</td><td></td><td> Open problem session 1</td></tr>
@@ -71,7 +71,7 @@ in order to apply them well beyond what can be calculated by hand.
     </tr>
 <tr><td>09:30-10:30</td><td><a href="https://www.imath.kiev.ua/~mariyka/">Masha Vlasenko</a></td><td>Frobenius structure and $p$-adic zeta function</td></tr>
 <tr><td>10:30-11:00</td><td></td><td> coffee+tea break</td></tr>
-<tr><td>11:00-12:00</td><td><a href="https://www.imo.universite-paris-saclay.fr/~fischler/">Stéphane Fischler</a></td><td>Effective algebraic independence of values of E-functions</td></tr>
+<tr><td>11:00-12:00</td><td><a href="https://www.imo.universite-paris-saclay.fr/~fischler/">Stéphane Fischler</a></td><td>Effective algebraic independence of values of $E$-functions</td></tr>
 <tr><td>12:30-15:00</td><td></td><td>  lunch</td></tr>
 <tr><td>15:00-20:00</td><td></td><td>  free afternoon (coffee+tea at 16:00 for those who stay) </td></tr>
 <tr><td>20:00</td><td></td><td>dinner at <a href="https://www.lebistrotdupotager.com/bistrot/le-bistrot-stalingrad/">Le Bistrot Stalingrad</a></td></tr>
@@ -99,6 +99,7 @@ in order to apply them well beyond what can be calculated by hand.
 <tr><td>12:30-15:00</td><td></td><td> lunch </td></tr>
 </tbody>
 </table>
+
 
 **Abstracts of the talks**
 
