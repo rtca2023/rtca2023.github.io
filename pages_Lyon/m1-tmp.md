@@ -110,19 +110,19 @@ in order to apply them well beyond what can be calculated by hand.
 - [Henri Cohen](https://www.math.u-bordeaux.fr/~hecohen/), Bordeaux, France
 - [Éric Delaygue](https://sites.google.com/site/ericdelaygue/), Lyon, France
 - [Vesselin Dimitrov](https://www.ias.edu/scholars/vesselin-dimitrov), Princeton, USA
+- [Stéphane Fischler](https://www.imo.universite-paris-saclay.fr/~fischler/), Orsay, France
 <details>
 <summary>
-[Stéphane Fischler](https://www.imo.universite-paris-saclay.fr/~fischler/), Orsay, France
-<em>Effective algebraic independence of values of E-functions</em>
+<em>Effective algebraic independence of values of $E$-functions</em>
 </summary>
-<p><b>The class of E-functions has been introduced by Siegel in 1929; it contains the exponential and Bessel functions. Given a finite family of algebraically independent E-functions, we consider the set $S$ of algebraic points at which their values are algebraically dependent. The Siegel-Shidlovskii theorem, proved in 1955 and refined by several authors, implies that $S$ is finite. The aim of this talk is to give an algorithm that allows one to determine $S$. It is a joint work with Tanguy Rivoal.</b></p>
+<p><b>The class of $E$-functions has been introduced by Siegel in 1929; it contains the exponential and Bessel functions. Given a finite family of algebraically independent $E$-functions, we consider the set $S$ of algebraic points at which their values are algebraically dependent. The Siegel-Shidlovskii theorem, proved in 1955 and refined by several authors, implies that $S$ is finite. The aim of this talk is to give an algorithm that allows one to determine $S$. It is a joint work with Tanguy Rivoal.</b></p>
 </details>
 - [Mark van Hoeij](https://www.math.fsu.edu/~hoeij/), Tallahassee, Florida, USA
 - [Christoph Koutschan](http://www.koutschan.de), Linz, Austria
 - [Pierre Lairez](https://pierre.lairez.fr), Palaiseau, France
+- [Anthony Poëls](http://apoels-math-u.net), Lyon, France
 <details>
 <summary>
-[Anthony Poëls](http://apoels-math-u.net), Lyon, France
 <em>Padé approximation for a class of hypergeometric functions</em>
 </summary>
 <p><b>In a recent work in collaboration with Makoto Kawashima with established new (effective) irrationality measures for values of functions which belong to a certain class of hypergeometric functions (including shifted logarithmic functions and binomial functions). In this talk, we will try to explain the ideas behind our proofs and constructions.
