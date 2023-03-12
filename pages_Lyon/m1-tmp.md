@@ -93,7 +93,7 @@ in order to apply them well beyond what can be calculated by hand.
 <i>Effective algebraic independence of values of $E$-functions
 </i>
 </summary>
-<blockquote>The class of E-functions has been introduced by Siegel in 1929; it contains the exponential and Bessel functions. Given a finite family of algebraically independent E-functions, we consider the set S of algebraic points at which their values are algebraically dependent. The Siegel-Shidlovskii theorem, proved in 1955 and refined by several authors, implies that S is finite. The aim of this talk is to give an algorithm that allows one to determine S. It is a joint work with Tanguy Rivoal.</blockquote>
+<blockquote>The class of $E$-functions has been introduced by Siegel in 1929; it contains the exponential and Bessel functions. Given a finite family of algebraically independent $E$-functions, we consider the set $S$ of algebraic points at which their values are algebraically dependent. The Siegel-Shidlovskii theorem, proved in 1955 and refined by several authors, implies that $S$ is finite. The aim of this talk is to give an algorithm that allows one to determine $S$. It is a joint work with Tanguy Rivoal.</blockquote>
 </details>
 </td></tr>
 <tr><td>12:30-15:00</td><td></td><td>  lunch</td></tr>
