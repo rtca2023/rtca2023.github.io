@@ -122,7 +122,7 @@ in order to apply them well beyond what can be calculated by hand.
 <summary>
 <i>Regulator integrals and triple modular values</i>
 </summary>
-<blockquote>The class of E-functions has been introduced by Siegel in 1929; it contains the exponential and Bessel functions. Given a finite family of algebraically independent E-functions, we consider the set S of algebraic points at which their values are algebraically dependent. The Siegel-Shidlovskii theorem, proved in 1955 and refined by several authors, implies that S is finite. The aim of this talk is to give an algorithm that allows one to determine S. It is a joint work with Tanguy Rivoal.</blockquote>
+<blockquote>Regulator integrals are a certain kind of periods which arise in Beilinson's conjectures on special values of $L$-functions. In the case of modular forms, the regulator integrals introduced by Beilinson involve products of two Eisenstein series. We will describe a new regulator integral based on the Goncharov regulator map. Using triple modular values, we can compute this integral as the $L$-value of a weight $2$ modular form at $s=3$. As an application, we prove a conjecture of Boyd and Rodriguez Villegas on the Mahler measure of $(1+x)(1+y)+z$. This is (in part) joint work with Wadim Zudilin.</blockquote>
 </details>
 </td></tr>
 <tr><td>10:30-11:00</td><td></td><td> coffee+tea break </td></tr>
