@@ -117,7 +117,14 @@ in order to apply them well beyond what can be calculated by hand.
       <th style="text-align: center"> </th>
       <th>Friday 31/03/2023</th>
     </tr>
-<tr><td>09:30-10:30</td><td><a href="http://perso.ens-lyon.fr/francois.brunault/">François Brunault</a></td><td>Explicit Mahler measures</td></tr>
+<tr><td>09:30-10:30</td><td><a href="http://perso.ens-lyon.fr/francois.brunault/">François Brunault</a></td>
+<td>  <details>
+<summary>
+<i>Regulator integrals and triple modular values</i>
+</summary>
+<blockquote>The class of E-functions has been introduced by Siegel in 1929; it contains the exponential and Bessel functions. Given a finite family of algebraically independent E-functions, we consider the set S of algebraic points at which their values are algebraically dependent. The Siegel-Shidlovskii theorem, proved in 1955 and refined by several authors, implies that S is finite. The aim of this talk is to give an algorithm that allows one to determine S. It is a joint work with Tanguy Rivoal.</blockquote>
+</details>
+</td></tr>
 <tr><td>10:30-11:00</td><td></td><td> coffee+tea break </td></tr>
 <tr><td>11:00-12:00</td><td><a href="https://www.maths.ox.ac.uk/people/francis.brown">Francis Brown</a></td><td>TBA</td></tr>
 <tr><td>12:30-15:00</td><td></td><td> lunch </td></tr>
