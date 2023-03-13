@@ -63,7 +63,7 @@ in order to apply them well beyond what can be calculated by hand.
   <td>  
     <details>
       <summary>
-        <em>Differential Galois theory and differential transcendence: the exponential case</em>
+        Differential Galois theory and differential transcendence: the exponential case
       </summary>
       <blockquote>We consider meromorphic solutions of difference equations
 and prove that very few among them satisfy an algebraic differential
