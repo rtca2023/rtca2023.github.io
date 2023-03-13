@@ -32,7 +32,7 @@ in order to apply them well beyond what can be calculated by hand.
 
 **Contact:** [eada2023@ens-lyon.fr](mailto:eada2023@ens-lyon.fr)
 
-**[Registration](https://eada23.sciencesconf.org)**
+**[Registration](https://eada23.sciencesconf.org): closed since March 3rd**
 
 **[Recommended hotels]({% link hotels_lyon.md %})**
 
