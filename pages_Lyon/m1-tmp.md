@@ -41,9 +41,9 @@ in order to apply them well beyond what can be calculated by hand.
 <table>
 	<tbody>
 	<tr>
-      <th> </th>
-      <th style="text-align: center"> </th>
-      <th>Monday 27/03/2023</th>
+      <th style="width:15%"> </th>
+      <th style="width:15%" style="text-align: center"> </th>
+      <th style="width:70%">Monday 27/03/2023</th>
     </tr>
 <tr><td> 09:30-10:30</td><td>
   <a href="http://apoels-math-u.net">Anthony Poëls</a></td>
