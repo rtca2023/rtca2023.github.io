@@ -120,7 +120,7 @@ in order to apply them well beyond what can be calculated by hand.
 <tr><td>09:30-10:30</td><td><a href="http://perso.ens-lyon.fr/francois.brunault/">François Brunault</a></td>
 <td>  <details>
 <summary>
-<i>Regulator integrals and triple modular values</i>
+<em>Regulator integrals and triple modular values</em>
 </summary>
 <blockquote>Regulator integrals are a certain kind of periods which arise in Beilinson's conjectures on special values of $L$-functions. In the case of modular forms, the regulator integrals introduced by Beilinson involve products of two Eisenstein series. We will describe a new regulator integral based on the Goncharov regulator map. Using triple modular values, we can compute this integral as the $L$-value of a weight $2$ modular form at $s=3$. As an application, we prove a conjecture of Boyd and Rodriguez Villegas on the Mahler measure of $(1+x)(1+y)+z$. This is (in part) joint work with Wadim Zudilin.</blockquote>
 </details>
