@@ -50,7 +50,7 @@ in order to apply them well beyond what can be calculated by hand.
   <td>  
     <details>
     <summary>
-      <em>Padé approximation for a class of hypergeometric functions</em>
+      Padé approximation for a class of hypergeometric functions
     </summary>
     <blockquote>In a recent work in collaboration with Makoto Kawashima with established new (effective) irrationality measures for values of functions which belong to a certain class of hypergeometric functions (including shifted logarithmic functions and binomial functions). In this talk, we will try to explain the ideas behind our proofs and constructions.
   </blockquote>
@@ -90,7 +90,7 @@ in order to apply them well beyond what can be calculated by hand.
 <tr><td>11:00-12:00</td><td><a href="https://www.imo.universite-paris-saclay.fr/~fischler/">Stéphane Fischler</a></td>
   <td>  <details>
 <summary>
-<em>Effective algebraic independence of values of $E$-functions</em>
+Effective algebraic independence of values of $E$-functions
 </summary>
 <blockquote>The class of $E$-functions has been introduced by Siegel in 1929; it contains the exponential and Bessel functions. Given a finite family of algebraically independent $E$-functions, we consider the set $S$ of algebraic points at which their values are algebraically dependent. The Siegel-Shidlovskii theorem, proved in 1955 and refined by several authors, implies that $S$ is finite. The aim of this talk is to give an algorithm that allows one to determine $S$. It is a joint work with Tanguy Rivoal.</blockquote>
 </details>
@@ -119,7 +119,7 @@ in order to apply them well beyond what can be calculated by hand.
 <tr><td>09:30-10:30</td><td><a href="http://perso.ens-lyon.fr/francois.brunault/">François Brunault</a></td>
 <td>  <details>
 <summary>
-<em>Regulator integrals and triple modular values</em>
+Regulator integrals and triple modular values
 </summary>
 <blockquote>Regulator integrals are a certain kind of periods which arise in Beilinson's conjectures on special values of $L$-functions. In the case of modular forms, the regulator integrals introduced by Beilinson involve products of two Eisenstein series. We will describe a new regulator integral based on the Goncharov regulator map. Using triple modular values, we can compute this integral as the $L$-value of a weight $2$ modular form at $s=3$. As an application, we prove a conjecture of Boyd and Rodriguez Villegas on the Mahler measure of $(1+x)(1+y)+z$. This is (in part) joint work with Wadim Zudilin.</blockquote>
 </details>
