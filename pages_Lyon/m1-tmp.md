@@ -60,7 +60,17 @@ in order to apply them well beyond what can be calculated by hand.
 <tr><td> 10:30-11:00</td><td></td><td>Welcome coffee+tea</td></tr>
 <tr><td> 11:00-12:00</td><td>
   <a href="https://sites.google.com/site/thomasdreyfusmaths/">Thomas Dreyfus</a></td>
-  <td>  TBA
+  <td>  
+    <details>
+      <summary>
+        <em>Differential Galois theory and differential transcendence: the exponential case</em>
+      </summary>
+      <blockquote>We consider meromorphic solutions of difference equations
+and prove that very few among them satisfy an algebraic differential
+equation. The basic tool is the difference Galois theory of functional
+equations.
+      </blockquote>
+      </details>
   </td>
 </tr>
 <tr><td> 12:30-15:00</td><td></td><td> lunch</td></tr>
