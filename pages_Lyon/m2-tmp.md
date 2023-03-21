@@ -106,3 +106,4 @@ on computations returning certified numerical results, i.e., where an error boun
 
 **[Code of Conduct]({% link code_of_conduct.md %})**
 
+This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No. 101001995).
