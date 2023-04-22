@@ -62,7 +62,7 @@ on computations returning certified numerical results, i.e., where an error boun
       <th>Wednesday 24/05/2023</th>
     </tr>
 <tr><td> 09:00-09:30</td><td> Welcome breakfast/coffee</td></tr>
-<tr><td> 09:30-10:30</td><td><a href="http://www.math.fau.edu/people/faculty/mirelesjames.php">Jason Mireles-James</a></td></tr>
+<tr><td> 09:30-10:30</td><td><a href="https://www.imo.universite-paris-saclay.fr/~pmassot/">Patrick Massot</a></td></tr>
 <tr><td> 10:30-11:00</td><td> Contributed talk </td></tr>
 <tr><td> 11:00-11:30</td><td> Coffee break</td></tr>
 <tr><td> 11:30-12:30</td><td><a href="https://www.cl.cam.ac.uk/~jrh13/">John Harrison</a></td></tr>
@@ -102,7 +102,8 @@ on computations returning certified numerical results, i.e., where an error boun
 **[Registration](https://csnc23.sciencesconf.org)**
 
 **[Recommended hotels]({% link hotels_lyon.md %})**
-  
+
 
 **[Code of Conduct]({% link code_of_conduct.md %})**
 
+This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No. 101001995).
