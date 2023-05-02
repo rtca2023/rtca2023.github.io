@@ -29,68 +29,68 @@ on computations returning certified numerical results, i.e., where an error boun
 <table>
 	<tbody>
 	<tr>
-      <th> </th>
-      <!-- <th style="text-align: center"> </th> -->
-      <th>Monday 22/05/2023</th>
+      <th style="width:15%"> </th>
+      <th style="width:15%" style="text-align: center"> </th>
+      <th style="width:70%">Monday 22/05/2023</th>
     </tr>
 <tr><td> 10:30-11:20</td><td> Welcome breakfast/coffee</td></tr>
 <tr><td> 11:20-11:30</td><td> Presentation of the week</td></tr>
 <tr><td> 11:30-12:30</td><td><a href="https://homepages.laas.fr/mmjoldes/">Mioara Joldes</a></td></tr>
-<tr><td> 12:30-13:00</td><td> Contributed talk </td></tr>
+<tr><td> 12:30-13:00</td><td><a href="https://www.inria.fr/en/yves-bertot">Yves Bertot</a></td></tr>
 <tr><td> 13:00-15:00</td><td> Lunch break </td></tr>
 <tr><td> 15:00-16:00</td><td><a href="https://www.lri.fr/~melquion/">Guillaume Melquiond</a></td></tr>
-<tr><td> 16:00-16:30</td><td> Contributed talk </td></tr>
+<tr><td> 16:00-16:30</td><td> Discussion </td></tr>
 <tr><td> 16:30</td><td>Coffee break</td></tr>
 	<tr>
       <th> </th>
-      <!-- <th style="text-align: center"> </th> -->
+      <th style="text-align: center"> </th>
       <th>Tuesday 23/05/2023</th>
     </tr>
 <tr><td> 09:00-09:30</td><td> Welcome breakfast/coffee</td></tr>
 <tr><td> 09:30-10:30</td><td><a href="http://www2.math.uu.se/~figueras/">Jordi-Lluis Figueras</a></td></tr>
-<tr><td> 10:30-11:00</td><td> Contributed talk </td></tr>
+<tr><td> 10:30-11:00</td><td> <a href="https://lecopivo.github.io/">Tomáš Skřivan</a> </td></tr>
 <tr><td> 11:00-11:30</td><td> Coffee break</td></tr>
 <tr><td> 11:30-12:30</td><td><a href="https://www.cl.cam.ac.uk/~jrh13/">John Harrison</a></td></tr>
-<tr><td> 12:30-13:00</td><td> Contributed talk </td></tr>
+<tr><td> 12:30-13:00</td><td> <a href="https://github.com/marialuizacvianna">Maria Luiza Costa Vianna</a> </td></tr>
 <tr><td> 13:00-15:00</td><td> Lunch break </td></tr>
 <tr><td> 15:00-16:00</td><td><a href="https://homepages.laas.fr/lasserre/drupal/home">Jean-Bernard Lasserre</a></td></tr>
-<tr><td> 16:00-16:30</td><td> Contributed talk </td></tr>
+<tr><td> 16:00-16:30</td><td> Discussion </td></tr>
 <tr><td> 16:30</td><td>Coffee break</td></tr>
 	<tr>
       <th> </th>
-      <!-- <th style="text-align: center"> </th> -->
+      <th style="text-align: center"> </th>
       <th>Wednesday 24/05/2023</th>
     </tr>
 <tr><td> 09:00-09:30</td><td> Welcome breakfast/coffee</td></tr>
-<tr><td> 09:30-10:30</td><td><a href="https://www.imo.universite-paris-saclay.fr/~pmassot/">Patrick Massot</a></td></tr>
-<tr><td> 10:30-11:00</td><td> Contributed talk </td></tr>
+<tr><td> 09:30-10:30</td><td><a href="https://cosweb1.fau.edu/~jmirelesjames/">Jason Mireles James</a></td></tr>
+<tr><td> 10:30-11:00</td><td><a href="https://www-sop.inria.fr/members/Laurence.Rideau/me.html">Laurence Rideau</a></td></tr>
 <tr><td> 11:00-11:30</td><td> Coffee break</td></tr>
-<tr><td> 11:30-12:30</td><td><a href="https://www.cl.cam.ac.uk/~jrh13/">John Harrison</a></td></tr>
-<tr><td> 12:30-13:00</td><td> Contributed talk </td></tr>
+<tr><td> 09:30-10:30</td><td><a href="https://www.imo.universite-paris-saclay.fr/~pmassot/">Patrick Massot</a></td></tr>
+<tr><td> 12:30-13:00</td><td><a href="https://perso.math.univ-toulouse.fr/yak/">Jean-Claude Yakoubsohn</a></td></tr>
 <tr><td> 13:00</td><td> Lunch, followed by free afternoon</td></tr>
 	<tr>
       <th> </th>
-      <!-- <th style="text-align: center"> </th> -->
+      <th style="text-align: center"> </th>
       <th>Thursday 25/05/2023</th>
     </tr>
 <tr><td> 09:00-09:30</td><td> Welcome breakfast/coffee</td></tr>
 <tr><td> 09:30-10:30</td><td><a href="http://cl-informatik.uibk.ac.at/users/meberl/">Manuel Eberl</a></td></tr>
-<tr><td> 10:30-11:00</td><td> Contributed talk </td></tr>
+<tr><td> 10:30-11:00</td><td><a href="https://dahne.eu/">Joel Dahne</a></td></tr>
 <tr><td> 11:00-11:30</td><td> Coffee break</td></tr>
 <tr><td> 11:30-12:30</td><td><a href="https://www.math.kit.edu/iana2/~plum/en">Michael Plum</a></td></tr>
 <tr><td> 12:30-13:00</td><td> Contributed talk </td></tr>
 <tr><td> 13:00-15:00</td><td> Lunch break </td></tr>
 <tr><td> 15:00-16:00</td><td><a href="https://fredrikj.net/">Fredrik Johansson</a></td></tr>
-<tr><td> 16:00-16:30</td><td> Contributed talk </td></tr>
+<tr><td> 16:00-16:30</td><td> Discussion </td></tr>
 <tr><td> 16:30</td><td>Coffee break</td></tr>
 	<tr>
       <th> </th>
-      <!-- <th style="text-align: center"> </th> -->
+      <th style="text-align: center"> </th>
       <th>Friday 26/05/2023</th>
     </tr>
 <tr><td> 09:00-09:30</td><td> Welcome breakfast/coffee</td></tr>
 <tr><td> 09:30-10:30</td><td><a href="https://ww2.ii.uj.edu.pl/~wilczak/">Daniel Wilczak</a></td></tr>
-<tr><td> 10:30-11:00</td><td> Contributed talk </td></tr>
+<tr><td> 10:30-11:00</td><td><a href="https://www.irit.fr/~Erik.Martin-Dorel/"> Érik Martin-Dorel</a> </td></tr>
 <tr><td> 11:00-11:30</td><td> Coffee break</td></tr>
 <tr><td> 11:30-12:30</td><td><a href="https://perso.ens-lyon.fr/jean-michel.muller/">Jean-Michel Muller</a></td></tr>
 <tr><td> 12:30-13:00</td><td> Contributed talk </td></tr>
