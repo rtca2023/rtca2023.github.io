@@ -33,10 +33,23 @@ on computations returning certified numerical results, i.e., where an error boun
       <th style="width:15%" style="text-align: center"> </th>
       <th style="width:70%">Monday 22/05/2023</th>
     </tr>
-<tr><td> 10:30-11:20</td><td> Welcome breakfast/coffee</td></tr>
-<tr><td> 11:20-11:30</td><td> Presentation of the week</td></tr>
-<tr><td> 11:30-12:30</td><td><a href="https://homepages.laas.fr/mmjoldes/">Mioara Joldes</a></td></tr>
-<tr><td> 12:30-13:00</td><td><a href="https://www.inria.fr/en/yves-bertot">Yves Bertot</a></td></tr>
+<tr>
+    <td> 10:30-11:20</td>
+    <td> Welcome breakfast/coffee</td>
+</tr>
+<tr>
+    <td> 11:20-11:30</td>
+    <td> Presentation of the week</td>
+</tr>
+<tr>
+    <td> 11:30-12:30</td>
+    <td><a href="https://homepages.laas.fr/mmjoldes/">Mioara Joldes</a></td>
+</tr>
+<tr>
+    <td> 12:30-13:00</td>
+    <td><a href="https://www.inria.fr/en/yves-bertot">Yves Bertot</a></td>
+    <td>Formal proof of trajectory computation in the plane among piecewise-linear obstacles</td>
+</tr>
 <tr><td> 13:00-15:00</td><td> Lunch break </td></tr>
 <tr><td> 15:00-16:00</td><td><a href="https://www.lri.fr/~melquion/">Guillaume Melquiond</a></td></tr>
 <tr><td> 16:00-16:30</td><td> Discussion </td></tr>
@@ -48,10 +61,18 @@ on computations returning certified numerical results, i.e., where an error boun
     </tr>
 <tr><td> 09:00-09:30</td><td> Welcome breakfast/coffee</td></tr>
 <tr><td> 09:30-10:30</td><td><a href="http://www2.math.uu.se/~figueras/">Jordi-Lluis Figueras</a></td></tr>
-<tr><td> 10:30-11:00</td><td> <a href="https://lecopivo.github.io/">Tomáš Skřivan</a> </td></tr>
+<tr>
+    <td> 10:30-11:00</td>
+    <td> <a href="https://lecopivo.github.io/">Tomáš Skřivan</a> </td>
+    <td> Scientific Computing in Lean 4</td>
+</tr>
 <tr><td> 11:00-11:30</td><td> Coffee break</td></tr>
 <tr><td> 11:30-12:30</td><td><a href="https://www.cl.cam.ac.uk/~jrh13/">John Harrison</a></td></tr>
-<tr><td> 12:30-13:00</td><td> <a href="https://github.com/marialuizacvianna">Maria Luiza Costa Vianna</a> </td></tr>
+<tr>
+    <td> 12:30-13:00</td>
+    <td> <a href="https://github.com/marialuizacvianna">Maria Luiza Costa Vianna</a> </td>
+    <td>A Geometric Approach to the Coverage Measure of the Area Explored by a Robot</td>
+</tr>
 <tr><td> 13:00-15:00</td><td> Lunch break </td></tr>
 <tr><td> 15:00-16:00</td><td><a href="https://homepages.laas.fr/lasserre/drupal/home">Jean-Bernard Lasserre</a></td></tr>
 <tr><td> 16:00-16:30</td><td> Discussion </td></tr>
@@ -63,10 +84,18 @@ on computations returning certified numerical results, i.e., where an error boun
     </tr>
 <tr><td> 09:00-09:30</td><td> Welcome breakfast/coffee</td></tr>
 <tr><td> 09:30-10:30</td><td><a href="https://cosweb1.fau.edu/~jmirelesjames/">Jason Mireles James</a></td></tr>
-<tr><td> 10:30-11:00</td><td><a href="https://www-sop.inria.fr/members/Laurence.Rideau/me.html">Laurence Rideau</a></td></tr>
+<tr>
+    <td> 10:30-11:00</td>
+    <td><a href="https://www-sop.inria.fr/members/Laurence.Rideau/me.html">Laurence Rideau</a></td>
+    <td>Formalization of Lange &amp; Rump's proof of error estimation for iterated sums of floating point numbers</td>
+</tr>
 <tr><td> 11:00-11:30</td><td> Coffee break</td></tr>
 <tr><td> 09:30-10:30</td><td><a href="https://www.imo.universite-paris-saclay.fr/~pmassot/">Patrick Massot</a></td></tr>
-<tr><td> 12:30-13:00</td><td><a href="https://perso.math.univ-toulouse.fr/yak/">Jean-Claude Yakoubsohn</a></td></tr>
+<tr>
+    <td> 12:30-13:00</td>
+    <td><a href="https://perso.math.univ-toulouse.fr/yak/">Jean-Claude Yakoubsohn</a></td>
+    <td>High order methods for the SVD</td>
+</tr>
 <tr><td> 13:00</td><td> Lunch, followed by free afternoon</td></tr>
 	<tr>
       <th> </th>
@@ -75,10 +104,18 @@ on computations returning certified numerical results, i.e., where an error boun
     </tr>
 <tr><td> 09:00-09:30</td><td> Welcome breakfast/coffee</td></tr>
 <tr><td> 09:30-10:30</td><td><a href="http://cl-informatik.uibk.ac.at/users/meberl/">Manuel Eberl</a></td></tr>
-<tr><td> 10:30-11:00</td><td><a href="https://dahne.eu/">Joel Dahne</a></td></tr>
+<tr>
+    <td> 10:30-11:00</td>
+    <td><a href="https://dahne.eu/">Joel Dahne</a></td>
+    <td>Cusped waves and special functions</td>
+</tr>
 <tr><td> 11:00-11:30</td><td> Coffee break</td></tr>
 <tr><td> 11:30-12:30</td><td><a href="https://www.math.kit.edu/iana2/~plum/en">Michael Plum</a></td></tr>
-<tr><td> 12:30-13:00</td><td> Contributed talk </td></tr>
+<tr>
+    <td> 12:30-13:00</td>
+    <td> <a href="https://www.maths.ox.ac.uk/people/pierre.roux">Pierre Roux</a></td>
+    <td>ValidSDP: Coq proofs of polynomial positivity using numerical solvers and floating-point computations</td>
+</tr>
 <tr><td> 13:00-15:00</td><td> Lunch break </td></tr>
 <tr><td> 15:00-16:00</td><td><a href="https://fredrikj.net/">Fredrik Johansson</a></td></tr>
 <tr><td> 16:00-16:30</td><td> Discussion </td></tr>
@@ -90,7 +127,11 @@ on computations returning certified numerical results, i.e., where an error boun
     </tr>
 <tr><td> 09:00-09:30</td><td> Welcome breakfast/coffee</td></tr>
 <tr><td> 09:30-10:30</td><td><a href="https://ww2.ii.uj.edu.pl/~wilczak/">Daniel Wilczak</a></td></tr>
-<tr><td> 10:30-11:00</td><td><a href="https://www.irit.fr/~Erik.Martin-Dorel/"> Érik Martin-Dorel</a> </td></tr>
+<tr>
+    <td> 10:30-11:00</td>
+    <td><a href="https://www.irit.fr/~Erik.Martin-Dorel/"> Érik Martin-Dorel</a> </td>
+    <td>Hardware floating-point computations in Coq</td>
+</tr>
 <tr><td> 11:00-11:30</td><td> Coffee break</td></tr>
 <tr><td> 11:30-12:30</td><td><a href="https://perso.ens-lyon.fr/jean-michel.muller/">Jean-Michel Muller</a></td></tr>
 <tr><td> 12:30-13:00</td><td> Contributed talk </td></tr>
