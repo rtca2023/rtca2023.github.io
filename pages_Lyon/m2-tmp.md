@@ -148,7 +148,7 @@ paper proof to its use for the Euclidean norm.</details>
     </td>
 </tr>
 <tr><td> 11:00-11:30</td><td> Coffee break</td></tr>
-<tr><td> 09:30-10:30</td><td><a href="https://www.imo.universite-paris-saclay.fr/~pmassot/">Patrick Massot</a></td></tr>
+<tr><td> 11:30-12:30</td><td><a href="https://www.imo.universite-paris-saclay.fr/~pmassot/">Patrick Massot</a></td></tr>
 <tr>
     <td> 12:30-13:00</td>
     <td><a href="https://perso.math.univ-toulouse.fr/yak/">Jean-Claude Yakoubsohn</a></td>
