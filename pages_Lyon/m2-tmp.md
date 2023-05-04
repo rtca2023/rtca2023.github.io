@@ -61,7 +61,13 @@ verify formally that there are no collisions.
     </td>
 </tr>
 <tr><td> 13:00-15:00</td><td> Lunch break </td></tr>
-<tr><td> 15:00-16:00</td><td><a href="https://www.lri.fr/~melquion/">Guillaume Melquiond</a></td></tr>
+<tr>
+    <td> 15:00-16:00</td>
+    <td><a href="https://www.lri.fr/~melquion/">Guillaume Melquiond</a></td>
+    <td><details><summary>Numerical Computations and Formal Proofs</summary>
+        The main role of a system like Coq is to verify all the details of a proof written by the user using a formal language. Using such a proof assistant offers an unmatched confidence in the theorem statements, at the expense of a huge and tedious work by the user. While this approach is usually applied to symbolic reasoning, this talk will show how one can formalize mathematical theorems whose proofs rely on numerical computations. The first step is to implement arithmetic algorithms from the ground up in the logic of Coq: integer arithmetic, floating-point arithmetic, interval arithmetic, Taylor models. Once they have been formally verified, these numerical algorithms can be used inside formal proofs to alleviate the user proof effort. Moreover, they pave the way to using Coq, not only as proof assistant, but also as a computer algebra system: global optimization, root finding, proper and improper definite integrals, plots, and so on.
+    </details></td>
+</tr>
 <tr><td> 16:00-16:30</td><td> Discussion </td></tr>
 <tr><td> 16:30</td><td>Coffee break</td></tr>
 	<tr>
