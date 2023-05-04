@@ -35,10 +35,12 @@ on computations returning certified numerical results, i.e., where an error boun
     </tr>
 <tr>
     <td> 10:30-11:20</td>
+    <td> </td>
     <td> Welcome breakfast/coffee</td>
 </tr>
 <tr>
     <td> 11:20-11:30</td>
+    <td> </td>
     <td> Presentation of the week</td>
 </tr>
 <tr>
@@ -60,7 +62,7 @@ verify formally that there are no collisions.
     </details>
     </td>
 </tr>
-<tr><td> 13:00-15:00</td><td> Lunch break </td></tr>
+<tr><td> 13:00-15:00</td><td></td><td> Lunch break </td></tr>
 <tr>
     <td> 15:00-16:00</td>
     <td><a href="https://www.lri.fr/~melquion/">Guillaume Melquiond</a></td>
@@ -68,14 +70,14 @@ verify formally that there are no collisions.
         The main role of a system like Coq is to verify all the details of a proof written by the user using a formal language. Using such a proof assistant offers an unmatched confidence in the theorem statements, at the expense of a huge and tedious work by the user. While this approach is usually applied to symbolic reasoning, this talk will show how one can formalize mathematical theorems whose proofs rely on numerical computations. The first step is to implement arithmetic algorithms from the ground up in the logic of Coq: integer arithmetic, floating-point arithmetic, interval arithmetic, Taylor models. Once they have been formally verified, these numerical algorithms can be used inside formal proofs to alleviate the user proof effort. Moreover, they pave the way to using Coq, not only as proof assistant, but also as a computer algebra system: global optimization, root finding, proper and improper definite integrals, plots, and so on.
     </details></td>
 </tr>
-<tr><td> 16:00-16:30</td><td> Discussion </td></tr>
-<tr><td> 16:30</td><td>Coffee break</td></tr>
+<tr><td> 16:00-16:30</td><td></td><td> Discussion </td></tr>
+<tr><td> 16:30</td><td></td><td>Coffee break</td></tr>
 	<tr>
       <th> </th>
       <th style="text-align: center"> </th>
       <th>Tuesday 23/05/2023</th>
     </tr>
-<tr><td> 09:00-09:30</td><td> Welcome breakfast/coffee</td></tr>
+<tr><td> 09:00-09:30</td><td></td><td> Welcome breakfast/coffee</td></tr>
 <tr><td> 09:30-10:30</td><td><a href="http://www2.math.uu.se/~figueras/">Jordi-Lluis Figueras</a></td></tr>
 <tr>
     <td> 10:30-11:00</td>
@@ -111,7 +113,7 @@ Our ultimate goal is to create a system that can be used by a wide
 audience to help them select the best computational method for their
 problems.</details></td>
 </tr>
-<tr><td> 11:00-11:30</td><td> Coffee break</td></tr>
+<tr><td> 11:00-11:30</td><td></td><td> Coffee break</td></tr>
 <tr><td> 11:30-12:30</td><td><a href="https://www.cl.cam.ac.uk/~jrh13/">John Harrison</a></td></tr>
 <tr>
     <td> 12:30-13:00</td>
@@ -119,16 +121,16 @@ problems.</details></td>
     <td><details><summary>A Geometric Approach to the Coverage Measure of the Area Explored by a Robot</summary>
     Full coverage of an area of interest is a common task for an autonomous robot. Estimating the area explored by the robot is indeed essential for determining if path-planning algorithms lead to complete coverage. In this work, using a set membership approach, we   propose a method for a guaranteed estimation of the area explored by an autonomous robot. The proposed algorithm is able to determine how many times each portion of the space has been sensed by the robot using a novel approach based on topological properties of the environment that has been scanned, and more precisely an estimation of certain winding numbers. This property is useful for localization inside homogeneous environments, e.g. the underwater environment, and assessment for potential revisiting missions. We demonstrate the efficiency of the presented approach on a real dataset acquired by an autonomous underwater robot.</details></td>
 </tr>
-<tr><td> 13:00-15:00</td><td> Lunch break </td></tr>
+<tr><td> 13:00-15:00</td><td></td><td> Lunch break </td></tr>
 <tr><td> 15:00-16:00</td><td><a href="https://homepages.laas.fr/lasserre/drupal/home">Jean-Bernard Lasserre</a></td></tr>
-<tr><td> 16:00-16:30</td><td> Discussion </td></tr>
-<tr><td> 16:30</td><td>Coffee break</td></tr>
+<tr><td> 16:00-16:30</td><td></td><td> Discussion </td></tr>
+<tr><td> 16:30</td><td></td><td>Coffee break</td></tr>
 	<tr>
       <th> </th>
       <th style="text-align: center"> </th>
       <th>Wednesday 24/05/2023</th>
     </tr>
-<tr><td> 09:00-09:30</td><td> Welcome breakfast/coffee</td></tr>
+<tr><td> 09:00-09:30</td><td></td><td> Welcome breakfast/coffee</td></tr>
 <tr><td> 09:30-10:30</td><td><a href="https://cosweb1.fau.edu/~jmirelesjames/">Jason Mireles James</a></td></tr>
 <tr>
     <td> 10:30-11:00</td>
@@ -147,7 +149,7 @@ how we stated the result of Lange & Rump in Coq and how we adapted the
 paper proof to its use for the Euclidean norm.</details>
     </td>
 </tr>
-<tr><td> 11:00-11:30</td><td> Coffee break</td></tr>
+<tr><td> 11:00-11:30</td><td></td><td> Coffee break</td></tr>
 <tr><td> 11:30-12:30</td><td><a href="https://www.imo.universite-paris-saclay.fr/~pmassot/">Patrick Massot</a></td></tr>
 <tr>
     <td> 12:30-13:00</td>
@@ -156,13 +158,13 @@ paper proof to its use for the Euclidean norm.</details>
         In this talk, we present a class of high order methods to approximate the singular value decomposition of a given complex matrix (SVD). To the best of our knowledge, only methods up to order three appear in the the literature. A first part is dedicated to define and analyse this class of method in the regular case, i.e., when the singular values are pairwise distinct. The construction is based on a perturbation analysis of a suitable system of equations associated to the SVD (SVD system). More precisely, for a given integer $p$, we define a sequence which converges with an order $p+1$ towards the left-right singular vectors and the singular values if the initial approximation of the SVD system satisfies a condition which depends on three quantities: the norm of initial approximation of the SVD system, the greatest singular value and the greatest inverse of the modulus of the difference between the singular values. From a numerical computational point of view, this furnishes a very efficient simple test to prove and certify the existence of a SVD in neighbourhood of the initial approximation. The second part of this study extends the method in the general case, i.e., when there are clusters of singular values. Moreover numerical experiments confirm the theoretical results both in the regular case of distinct singular value and in the singular case of multiple or clustered singular values.</details>
 </td>
 </tr>
-<tr><td> 13:00</td><td> Lunch, followed by free afternoon</td></tr>
+<tr><td> 13:00</td><td></td><td> Lunch, followed by free afternoon</td></tr>
 	<tr>
       <th> </th>
       <th style="text-align: center"> </th>
       <th>Thursday 25/05/2023</th>
     </tr>
-<tr><td> 09:00-09:30</td><td> Welcome breakfast/coffee</td></tr>
+<tr><td> 09:00-09:30</td><td></td><td> Welcome breakfast/coffee</td></tr>
 <tr><td> 09:30-10:30</td><td><a href="http://cl-informatik.uibk.ac.at/users/meberl/">Manuel Eberl</a></td></tr>
 <tr>
     <td> 10:30-11:00</td>
@@ -176,7 +178,7 @@ of special functions known as the Clausen functions turns out to be of
 great importance. This is joint work with Javier Gómez-Serrano.
 </details></td>
 </tr>
-<tr><td> 11:00-11:30</td><td> Coffee break</td></tr>
+<tr><td> 11:00-11:30</td><td></td><td> Coffee break</td></tr>
 <tr><td> 11:30-12:30</td><td><a href="https://www.math.kit.edu/iana2/~plum/en">Michael Plum</a></td></tr>
 <tr>
     <td> 12:30-13:00</td>
@@ -207,16 +209,16 @@ positivity problems that would otherwise be untractable with other
 state of the art methods.</details>
 </td>
 </tr>
-<tr><td> 13:00-15:00</td><td> Lunch break </td></tr>
+<tr><td> 13:00-15:00</td><td></td><td> Lunch break </td></tr>
 <tr><td> 15:00-16:00</td><td><a href="https://fredrikj.net/">Fredrik Johansson</a></td></tr>
-<tr><td> 16:00-16:30</td><td> Discussion </td></tr>
-<tr><td> 16:30</td><td>Coffee break</td></tr>
+<tr><td> 16:00-16:30</td><td></td><td> Discussion </td></tr>
+<tr><td> 16:30</td><td></td><td>Coffee break</td></tr>
 	<tr>
       <th> </th>
       <th style="text-align: center"> </th>
       <th>Friday 26/05/2023</th>
     </tr>
-<tr><td> 09:00-09:30</td><td> Welcome breakfast/coffee</td></tr>
+<tr><td> 09:00-09:30</td><td></td><td> Welcome breakfast/coffee</td></tr>
 <tr><td> 09:30-10:30</td><td><a href="https://ww2.ii.uj.edu.pl/~wilczak/">Daniel Wilczak</a></td></tr>
 <tr>
     <td> 10:30-11:00</td>
@@ -240,10 +242,10 @@ arithmetic and their use in two libraries to perform efficient proofs
 by reflection of numerical goals.  Benchmarks show a speed-up of at
 least one order of magnitude.</details></td>
 </tr>
-<tr><td> 11:00-11:30</td><td> Coffee break</td></tr>
+<tr><td> 11:00-11:30</td><td></td><td> Coffee break</td></tr>
 <tr><td> 11:30-12:30</td><td><a href="https://perso.ens-lyon.fr/jean-michel.muller/">Jean-Michel Muller</a></td></tr>
-<tr><td> 12:30-13:00</td><td> Contributed talk </td></tr>
-<tr><td> 13:00</td><td> Lunch and end fo the workshop </td></tr>
+<tr><td> 12:30-13:00</td><td></td><td> Discussion </td></tr>
+<tr><td> 13:00</td><td></td><td> Lunch and end of the workshop </td></tr>
 </tbody>
 </table>
 
