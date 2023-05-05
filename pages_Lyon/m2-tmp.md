@@ -210,7 +210,17 @@ state of the art methods.</details>
 </td>
 </tr>
 <tr><td> 13:00-15:00</td><td></td><td> Lunch break </td></tr>
-<tr><td> 15:00-16:00</td><td><a href="https://fredrikj.net/">Fredrik Johansson</a></td></tr>
+<tr>
+    <td> 15:00-16:00</td>
+    <td><a href="https://fredrikj.net/">Fredrik Johansson</a></td>
+    <td><details><summary>Computing special functions using integral representations</summary>
+         Numerical quadrature of integral representations is a powerful
+approach to computing special functions. It offers the possibility to obtain
+precise certified error bounds and is especially useful when
+one has to deal with large or complex parameters. This talk will give a brief
+introduction to different techniques and problems and discuss some
+recent implementation results.</details></td>
+</tr>
 <tr><td> 16:00-16:30</td><td></td><td> Discussion </td></tr>
 <tr><td> 16:30</td><td></td><td>Coffee break</td></tr>
 	<tr>
