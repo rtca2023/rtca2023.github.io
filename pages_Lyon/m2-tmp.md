@@ -29,8 +29,8 @@ on computations returning certified numerical results, i.e., where an error boun
 <table>
 	<tbody>
 	<tr>
-      <th style="width:15%"> </th>
-      <th style="width:15%" style="text-align: center"> </th>
+      <th style="width:10%"> </th>
+      <th style="width:20%" style="text-align: center"> </th>
       <th style="width:70%">Monday 22/05/2023</th>
     </tr>
 <tr>
@@ -243,7 +243,13 @@ by reflection of numerical goals.  Benchmarks show a speed-up of at
 least one order of magnitude.</details></td>
 </tr>
 <tr><td> 11:00-11:30</td><td></td><td> Coffee break</td></tr>
-<tr><td> 11:30-12:30</td><td><a href="https://perso.ens-lyon.fr/jean-michel.muller/">Jean-Michel Muller</a></td></tr>
+<tr>
+    <td> 11:30-12:30</td>
+    <td><a href="https://perso.ens-lyon.fr/jean-michel.muller/">Jean-Michel Muller</a></td>
+    <td><details><summary>Obtaining error bounds that are certain, sharp… and whose proof is trustable: the curse of long and boring proofs</summary>
+        We are interested in obtaining very sharp (indeed: asymptotically optimal) and certain (i.e., no « $+ O(u^k)$ » terms) error bounds for floating-point algorithms of medium size (say, less than around 20 operations). Unfortunately, this seems to imply that the proofs of these algorithms become long and tedious, so that almost nobody reads them in detail: the consequence is that it is not unlikely that they contain errors, that can remain unnoticed for years. We illustrate this problem with examples taken from computer arithmetic: addition and multiplication of « double word » numbers, and evaluation of the hypotenuse ($\sqrt{x^2+y^2}$) function. We discuss what computer algebra and formal proof bring to us, and the medium-term implication on the very notion of « publishing a proof » in an article.
+    </details></td>
+</tr>
 <tr><td> 12:30-13:00</td><td></td><td> Discussion </td></tr>
 <tr><td> 13:00</td><td></td><td> Lunch and end of the workshop </td></tr>
 </tbody>
