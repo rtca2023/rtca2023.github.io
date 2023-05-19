@@ -8,7 +8,7 @@ page_id: 1
 
 *June 26 to 30, 2023*
 
-**Organizers:**  [W. Decker](https://www.mathematik.uni-kl.de/en/agag/people/head/prof-dr-wolfram-decker), [J.-G. Dumas](https://ljk.imag.fr/membres/Jean-Guillaume.Dumas), [C. Pernet](https://ljk.imag.fr/membres/Clement.Pernet), [E. Thomé](https://members.loria.fr/EThome), [G. Villard](https://perso.ens-lyon.fr/gilles.villard)
+**Organizers:**  [W. Decker](https://math.rptu.de/en/wgs/agag/people/head/decker), [J.-G. Dumas](https://ljk.imag.fr/membres/Jean-Guillaume.Dumas), [C. Pernet](https://ljk.imag.fr/membres/Clement.Pernet), [E. Thomé](https://members.loria.fr/EThome), [G. Villard](https://perso.ens-lyon.fr/gilles.villard)
 
 At present the practical organization of this workshop is partly 
 prospective since in particular we plan to couple the event with developer days 
@@ -24,8 +24,12 @@ and numerical methods requires complex environments and sophisticated software i
 A round table meeting will be held for addressing issues around the promotion of software skills for scientific careers, including academic ones. 
 
 **Speakers**
-- [Peter Bürgisser](https://www.tu.berlin/en/act/team/prof-dr-peter-buergisser), 
-Technische Universität Berlin, Germany.
+- [Bill Allombert](https://www.math.u-bordeaux.fr/~ballombe/), CNRS, IMB Bordeaux 
+- [Wolfram Decker](https://math.rptu.de/en/wgs/agag/people/head/decker), RPTU Kaiserslautern-Landau
+- [Claus Fieker](https://math.rptu.de/ags/agag/personen/leitung/fieker), RPTU Kaiserslautern-Landau
+- [François Lemaire](https://www.fil.univ-lille.fr/~lemairef), CRIStAL, Université de Lille 
+- [Gleb Pogudin](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN), LIX, École Polytechnique, Palaiseau
+
 
 **[Code of Conduct]({% link code_of_conduct.md %})**
 
