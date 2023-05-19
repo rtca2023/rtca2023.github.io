@@ -14,7 +14,7 @@ Registration links may be found here and from the respective pages of the 6 peri
 - Certified and Symbolic-Numeric Computation, 
 [registration](https://csnc23.sciencesconf.org), week May 22 to 26, 2023, Lyon 
 - Mathematical Software and High Performance Algebraic Computing, 
-registration, week June 26 to 30, 2023, Lyon 
+[registration](https://indico.math.cnrs.fr/event/9802/registrations/890/), week June 26 to 30, 2023, Lyon 
 - Fundamental Algorithms and Algorithmic Complexity, 
 [registration](https://indico.math.cnrs.fr/event/8113/registrations), period September 18-29, 2023, Paris 
 - Geometry of Polynomial System Solving, Optimization and Topology, 
