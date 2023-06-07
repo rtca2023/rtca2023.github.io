@@ -1,0 +1,87 @@
+---
+layout: default
+page_site: Lyon 
+page_id: 1
+---
+
+**Registration is open:** [indico.math.cnrs.fr M3 workshop](https://indico.math.cnrs.fr/event/9802/)
+
+**Contact:** [rtca2023@listes.ens-lyon.fr](mailto:rtca2023@listes.ens-lyon.fr)
+
+### Mathematical Software and High Performance Algebraic Computing
+
+*June 26 to 30, 2023*
+
+**Location:**  [ENS de Lyon, site Monod](http://www.ens-lyon.fr/en/campus-life/campus-tour/maps-directions).
+
+[Practical information (thanks to Nicolas Brisebarre)](https://perso.ens-lyon.fr/nicolas.brisebarre/lyon_hints.html)
+
+**Organizers:**  [W. Decker](https://math.rptu.de/en/wgs/agag/people/head/decker), [J.-G. Dumas](https://ljk.imag.fr/membres/Jean-Guillaume.Dumas), [C. Pernet](https://ljk.imag.fr/membres/Clement.Pernet), [E. Thomé](https://members.loria.fr/EThome), [G. Villard](https://perso.ens-lyon.fr/gilles.villard)
+
+At present the practical organization of this workshop is partly 
+prospective since in particular we plan to couple the event with developer days 
+from various software groups. This ranges from many specialized opensource components (ex: FLINT, FpLLL, LinBox, etc.), to thematic systems (ex: GAP, Pari/GP, Singular, etc.) and general purpose ones (ex: OSCAR, Mathemagix, SageMath, etc.). We also plan to have a participation of MapleSoft and Wolfram Mathematica.  
+The goal of the workshop is to allow the software actors to present what the existing software systems are, with general and introductory talks, and focus on the latest advances and perspectives. 
+We also aim at making links between communities by 
+inviting representatives of interface softwares such as jupyter and Julia, and from research around interoperability formats and OpenMath.
+
+A specific interest will be for the advancement of optimized code and parallel software in all areas of symbolic mathematical computation. Research challenges also concern interfaces and integration of components, JIT compilation and metaprogramming. At the 
+algorithmic and application level, mastering precisions and hybrid symbolic, certified 
+and numerical methods requires complex environments and sophisticated software implementations. New applications, computational challenges and experimental mathematics problems should be raised to open up new perspectives for the design of computer algebra softwares. 
+
+A round table meeting will be held for addressing issues around the promotion of software skills for scientific careers, including academic ones. 
+
+**Preliminary Program**
+
+
+
+<table>
+<tbody>
+	<!-----------     MONDAY ---------------------------------------------->
+<tr>
+      <th style="width:10%"> </th>
+      <th style="width:20%" style="text-align: center"> </th>
+      <th style="width:70%">Monday June 26th, 2023</th>
+</tr>
+<tr>
+    <td> 12:00-13:45</td><td></td><td> Lunch break </td>
+</tr>
+<tr>
+    <td> 13:45-14:00</td><td></td><td> Opening </td>
+</tr>
+<tr>
+    <td> 14:00-15:00</td>
+    <td><a href="https://fredrikj.net">Fredrik Johansson</a></td>
+    <td></td>
+</tr>
+</tbody>
+</table>
+
+**Speakers**
+- [Bill Allombert](https://www.math.u-bordeaux.fr/~ballombe/), CNRS, IMB Bordeaux. 
+- [Anna Maria Bigatti](https://www.dima.unige.it/~bigatti/), Università di Genova.
+- [Wolfram Decker](https://math.rptu.de/en/wgs/agag/people/head/decker), RPTU Kaiserslautern-Landau.
+- [Jean-Guillaume Dumas](https://membres-ljk.imag.fr/Jean-Guillaume.Dumas), LJK, Université Grenoble Alpes.
+- [Bettina Eick](http://www.iaa.tu-bs.de/beick/), Technische Universität Braunschweig.
+- [Luca De Feo](https://defeo.lu), IBM Research Europe.
+- [Claus Fieker](https://math.rptu.de/ags/agag/personen/leitung/fieker), RPTU Kaiserslautern-Landau.
+- [Pascal Giorgi](https://www.lirmm.fr/~giorgi/), LIRMM, Université de Montpellier.
+- [Joris van der Hoeven](https://www.texmacs.org/joris/main/joris.html), CNRS, LIX, Palaiseau.
+- [Max Horn](https://www.quendi.de/en/math.html), RPTU Kaiserslautern-Landau.
+- [Fredrik Johansson](https://fredrikj.net), Inria, IMB, Bordeaux, France.
+- [Jean-Yves L'Excellent](http://perso.ens-lyon.fr/jean-yves.l.excellent), Mumps Technologies SAS.
+- [François Lemaire](https://www.fil.univ-lille.fr/~lemairef), CRIStAL, Université de Lille.
+- [Anton Leykin](https://antonleykin.math.gatech.edu), Georgia Tech, Atlanta.
+- [Marc Moreno Maza](https://www.csd.uwo.ca/~mmorenom/homepage-moreno.html),  University of Western Ontario, London. 
+- [Aurel Page](http://www.normalesup.org/~page/index.html), Inria, IMB Bordeaux. 
+- [Gleb Pogudin](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN), LIX, École Polytechnique, Palaiseau.
+- Keegan Ryan, University of California, San Diego.
+- [Mohab Safey El Din](https://www-polsys.lip6.fr/~safey/), LIP6, Sorbonne Université, Paris.
+- [Nicolas Thiéry](https://www.lisn.upsaclay.fr/members/thiery-nicolas/), LISN, Université Paris-Saclay.
+- [Emmanuel Thomé](https://members.loria.fr/EThome/), Inria, LORIA, Nancy.
+
+
+**[Code of Conduct]({% link code_of_conduct.md %})**
+
+
+
