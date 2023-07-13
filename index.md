@@ -71,7 +71,7 @@ the different specifications, levels of certification and
 ways to harness
 computational power** required by the core research of the community and in 
 various application contexts and tackle the different complexity models. 
-This will pave the way to **the next generation of computer algebra algorithms and software**. One of the main goals of this proposal is to push forward the current
+This will pave the way to **the next generation of computer algebra algorithms and software**. One of the main goals of this series of events is to push forward the current
 limits by investigating recent trends of this
 broad area, such as the design of algorithms exploiting and discovering structural 
 properties, the hybridization of exact computing through rigorous numerical approximations, 
