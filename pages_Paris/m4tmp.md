@@ -9,8 +9,7 @@ page_id: 100
 
 **[Registration](https://indico.math.cnrs.fr/event/8113/registrations)**
 
-**[How to come to IHP](https://www.ihp.fr/en/how-come-ihp)**
-
+**[How to come to IHP](https://www.ihp.fr/en/how-come-ihp)** / 
 **[Live stream](https://www.ihp.fr/en/live)**
 
 <hr size="6">
@@ -189,7 +188,7 @@ Le Bourget-du-Lac, France.
 <!----------->
 <tr>
     <td>9:30-10:30</td>
-    <td><a href="https://vonzurgathen.online">Joachim von zur Gathen</a></td>
+    <td><a href="https://">XXX</a></td>
     <td><details><summary>Title</summary>
         <blockquote>Abstract.
 </blockquote>
@@ -205,7 +204,7 @@ Le Bourget-du-Lac, France.
 <!----------->
 <tr>
     <td>11:00-12:00</td>
-    <td><a href="https://web.maths.unsw.edu.au/~davidharvey">David Harvey</a></td>
+    <td><a href="https://">XXX</a></td>
     <td><details><summary>Title</summary>
         <blockquote>Abstract.
 </blockquote>
@@ -221,7 +220,7 @@ Le Bourget-du-Lac, France.
 <!----------->
 <tr>
     <td>14:00-15:00</td>
-    <td><a href="https://members.loria.fr/GMoroz">Guillaume Moroz</a></td>
+    <td><a href="https://">XXX</a></td>
     <td><details><summary>Title</summary>
         <blockquote>Abstract.
 </blockquote>
@@ -231,7 +230,7 @@ Le Bourget-du-Lac, France.
 <!----------->
 <tr>
     <td>15:00-16:00</td>
-    <td><a href="https://mathexp.eu/chyzak">Frédéric Chyzak</a></td>
+    <td><a href="https://">XXX</a></td>
     <td><details><summary>Title</summary>
         <blockquote>Abstract.
 </blockquote>
@@ -240,18 +239,53 @@ Le Bourget-du-Lac, France.
 </tr>
 <!----------->
 <tr>
-    <td>16:00-16:30</td>
+    <td>16:00</td>
+    <td></td>
+    <td>Coffee</td>
+</tr>
+<!-----------     Tuesday  ---------------------------------------------->
+<tr>
+      <th style="width:10%"> </th>
+      <th style="width:20%" style="text-align: center"> </th>
+      <th style="width:70%">Wednesday September 27th, 2023</th>
+</tr>
+<!----------->
+<tr>
+    <td>9:30-10:30</td>
+    <td><a href="https://">XXX</a></td>
+    <td><details><summary>Title</summary>
+        <blockquote>Abstract.
+</blockquote>
+</details>
+</td>
+</tr>
+<!----------->
+<tr>
+    <td>10:30-11:00</td>
     <td></td>
     <td>Coffee break</td>
 </tr>
 <!----------->
 <tr>
-    <td>16:30-17:30</td>
-    <td><a href="https://cs.uwaterloo.ca/~eschost">Éric Schost</a></td>
+    <td>11:00-12:00</td>
+    <td><a href="https://">XXX</a></td>
     <td><details><summary>Title</summary>
         <blockquote>Abstract.
 </blockquote>
 </details>
+</td>
+</tr>
+<!----------->
+<tr>
+    <td></td>
+    <td></td>
+    <td>Free afternoon</td>
+</tr>
+<!----------->
+<tr>
+    <td>19:00</td>
+    <td></td>
+    <td>Reception
 </td>
 </tr>
 <!----------->
