@@ -5,10 +5,15 @@ page_site: Paris
 page_id: 100
 ---
 
+**New below:  [Workshop preliminary program](#schedule)**
 
 **[Registration](https://indico.math.cnrs.fr/event/8113/registrations)**
 
+**[How to come to IHP](https://www.ihp.fr/en/how-come-ihp)**
 
+**[Live stream](https://www.ihp.fr/en/live)**
+
+<hr size="6">
 
 #### Special week
 
@@ -76,6 +81,184 @@ Ontario, Canada.
 Le Bourget-du-Lac, France. 
 - [Benjamin Wesolowski](https://www.bweso.com), CNRS, UMPA, ENS de Lyon, France.
 - [Lihong Zhi](http://www.mmrc.iss.ac.cn/~lzhi), Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China. 
+
+
+<hr>
+
+
+**Preliminary Program of the workshop - All talks in Amphitheater Hermite**
+
+**[Live stream](https://www.ihp.fr/en/live)**
+
+<a name="schedule"></a>
+
+
+
+<table>
+<tbody>
+<!-----------     MONDAY ---------------------------------------------->
+<tr>
+      <th style="width:10%"> </th>
+      <th style="width:20%" style="text-align: center"> </th>
+      <th style="width:70%">Monday September 25th, 2023</th>
+</tr>
+<!----------->
+<tr>
+    <td>8:45</td><td></td><td> Welcome coffee</td>
+</tr>
+<!----------->
+<tr>
+    <td>9:15-9:30</td><td></td><td> Opening 
+      <br><a href="https://www.ihp.fr/en/governance">Dominique Mouhanna</a>, 
+      IHP Deputy Director</td>
+</tr>
+<!----------->
+<tr>
+    <td>9:30-10:30</td>
+    <td><a href="https://vonzurgathen.online">Joachim von zur Gathen</a></td>
+    <td><details><summary>Title</summary>
+        <blockquote>Abstract.
+</blockquote>
+</details>
+</td>
+</tr>
+<!----------->
+<tr>
+    <td>10:30-11:00</td>
+    <td></td>
+    <td>Coffee break</td>
+</tr>
+<!----------->
+<tr>
+    <td>11:00-12:00</td>
+    <td><a href="https://web.maths.unsw.edu.au/~davidharvey">David Harvey</a></td>
+    <td><details><summary>Title</summary>
+        <blockquote>Abstract.
+</blockquote>
+</details>
+</td>
+</tr>
+<!----------->
+<tr>
+    <td>12:00-14:00</td>
+    <td></td>
+    <td>Lunch break</td>
+</tr>
+<!----------->
+<tr>
+    <td>14:00-15:00</td>
+    <td><a href="https://members.loria.fr/GMoroz">Guillaume Moroz</a></td>
+    <td><details><summary>Title</summary>
+        <blockquote>Abstract.
+</blockquote>
+</details>
+</td>
+</tr>
+<!----------->
+<tr>
+    <td>15:00-16:00</td>
+    <td><a href="https://mathexp.eu/chyzak">Frédéric Chyzak</a></td>
+    <td><details><summary>Title</summary>
+        <blockquote>Abstract.
+</blockquote>
+</details>
+</td>
+</tr>
+<!----------->
+<tr>
+    <td>16:00-16:30</td>
+    <td></td>
+    <td>Coffee break</td>
+</tr>
+<!----------->
+<tr>
+    <td>16:30-17:30</td>
+    <td><a href="https://cs.uwaterloo.ca/~eschost">Éric Schost</a></td>
+    <td><details><summary>Title</summary>
+        <blockquote>Abstract.
+</blockquote>
+</details>
+</td>
+</tr>
+<!-----------     Tuesday  ---------------------------------------------->
+<tr>
+      <th style="width:10%"> </th>
+      <th style="width:20%" style="text-align: center"> </th>
+      <th style="width:70%">Tuesday September 26th, 2023</th>
+</tr>
+<!----------->
+<tr>
+    <td>9:30-10:30</td>
+    <td><a href="https://vonzurgathen.online">Joachim von zur Gathen</a></td>
+    <td><details><summary>Title</summary>
+        <blockquote>Abstract.
+</blockquote>
+</details>
+</td>
+</tr>
+<!----------->
+<tr>
+    <td>10:30-11:00</td>
+    <td></td>
+    <td>Coffee break</td>
+</tr>
+<!----------->
+<tr>
+    <td>11:00-12:00</td>
+    <td><a href="https://web.maths.unsw.edu.au/~davidharvey">David Harvey</a></td>
+    <td><details><summary>Title</summary>
+        <blockquote>Abstract.
+</blockquote>
+</details>
+</td>
+</tr>
+<!----------->
+<tr>
+    <td>12:00-14:00</td>
+    <td></td>
+    <td>Lunch break</td>
+</tr>
+<!----------->
+<tr>
+    <td>14:00-15:00</td>
+    <td><a href="https://members.loria.fr/GMoroz">Guillaume Moroz</a></td>
+    <td><details><summary>Title</summary>
+        <blockquote>Abstract.
+</blockquote>
+</details>
+</td>
+</tr>
+<!----------->
+<tr>
+    <td>15:00-16:00</td>
+    <td><a href="https://mathexp.eu/chyzak">Frédéric Chyzak</a></td>
+    <td><details><summary>Title</summary>
+        <blockquote>Abstract.
+</blockquote>
+</details>
+</td>
+</tr>
+<!----------->
+<tr>
+    <td>16:00-16:30</td>
+    <td></td>
+    <td>Coffee break</td>
+</tr>
+<!----------->
+<tr>
+    <td>16:30-17:30</td>
+    <td><a href="https://cs.uwaterloo.ca/~eschost">Éric Schost</a></td>
+    <td><details><summary>Title</summary>
+        <blockquote>Abstract.
+</blockquote>
+</details>
+</td>
+</tr>
+<!----------->
+
+</tbody>
+</table>
+
 
 
 **[Code of Conduct]({% link code_of_conduct.md %})**
