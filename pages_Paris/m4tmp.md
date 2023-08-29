@@ -282,8 +282,17 @@ Le Bourget-du-Lac, France.
 <tr>
     <td>11:00-12:00</td>
     <td><a href="https://www.cse.iitk.ac.in/users/nitin">Nitin Saxena</a></td>
-    <td><details><summary>Title</summary>
-        <blockquote>Abstract.
+    <td><details><summary>Closure of algebraic complexity classes under factoring</summary>
+        <blockquote>Abstract. Polynomial factoring is one of the most fundamental problems in the area of computational algebra. Its variants have attracted a huge amount of attention in the last half-a-century. On the other hand, algebraic complexity theory classifies polynomials, into complexity classes, according to computational resources. Could we show that these classes afford polynomial factoring algorithms?
+  
+            <br/>
+
+In this talk we will focus on four algebraic complexity classes--- size-s circuits VP$_{nb}$, size-s degree-s circuits VP, size-s degree-s verifier circuits VNP, and size-s algebraic branching programs VBP. We will discuss the algebraic methods, inspired from analysis, that have been developed to do factoring in these complexity classes. We will list the open questions and make some related conjectures.
+
+<br>
+
+[This is based on the joint work with Pranjal Dutta, Amit Sinhababu (J. ACM'22, STOC'18), and the follow-up papers by others.] <br/>
+[<a href="https://www.cse.iitk.ac.in/users/nitin/research.html">https://www.cse.iitk.ac.in/users/nitin/research.html</a>]
 </blockquote>
 </details>
 </td>
