@@ -20,20 +20,16 @@ page_id: 100
 
 *September 18 to 22, 2023*
 - **Efficient Algorithms for Integer and Polynomial Matrices** (long course), 
-[G. Labahn](https://cs.uwaterloo.ca/~glabahn) and [A. Storjohann](https://cs.uwaterloo.ca/~astorjoh)<br/>
+[George Labahn](https://cs.uwaterloo.ca/~glabahn) and [Arne Storjohann](https://cs.uwaterloo.ca/~astorjoh), University of Waterloo<br/>
 Monday 18th, Tuesday 19th, Thursday 21rst, and Friday 22nd, 9:30-12:00, Amphitheater Darboux<br/>
 
-- **Euclidean Lattices** (short course), [D. Stehlé](http://perso.ens-lyon.fr/damien.stehle)<br/>
+- **Euclidean Lattices** (short course), [Damien Stehlé](http://perso.ens-lyon.fr/damien.stehle), CryptoLab Inc., Lyon<br/>
 Tuesday 19th, 14:00-16:00, Amphitheater Darboux, and  Wednesday 20th,10:00-12:00, Amphitheater Hermite
 
 
 - **General audience presentation**, <br/>
-Wednesday 20th, 16:00, Amphitheater Hermite <br/>
-    <details><summary>Title, <a href="https://www.texmacs.org/joris/main/joris.html">J. van der Hoeven</a></summary> <blockquote>Abstract.</blockquote></details>
-
-
-
-
+Wednesday 20th, 16:00-17:00, Amphitheater Hermite <br/>
+    <details><summary>Title, <a href="https://www.texmacs.org/joris/main/joris.html">Joris van der Hoeven</a>, CNRS, LIX, Palaiseau</summary> <blockquote>Abstract.</blockquote></details>
 
 <hr>
 
