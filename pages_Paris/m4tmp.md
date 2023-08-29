@@ -146,7 +146,8 @@ Le Bourget-du-Lac, France.
 <!----------->
 <tr>
     <td>14:00-15:00</td>
-    <td><a href="https://members.loria.fr/GMoroz">Guillaume Moroz</a></td>
+    <td><a href="https://members.loria.fr/GMoroz">Guillaume Moroz</a>
+        <br> (or maybe Tuesday morning, 11:00)</td>
     <td><details><summary>Title</summary>
         <blockquote>Abstract.
 </blockquote>
@@ -188,7 +189,7 @@ Le Bourget-du-Lac, France.
 <!----------->
 <tr>
     <td>9:30-10:30</td>
-    <td><a href="https://">XXX</a></td>
+    <td><a href="http://users.cms.caltech.edu/~umans">Chris Umans</a></td>
     <td><details><summary>Title</summary>
         <blockquote>Abstract.
 </blockquote>
@@ -204,7 +205,8 @@ Le Bourget-du-Lac, France.
 <!----------->
 <tr>
     <td>11:00-12:00</td>
-    <td><a href="https://">XXX</a></td>
+    <td><a href="https://tavenas.pages.math.cnrs.fr">Sébastien Tavenas</a>
+        <br> (or maybe afternoon, 15:00)</td>
     <td><details><summary>Title</summary>
         <blockquote>Abstract.
 </blockquote>
@@ -220,7 +222,7 @@ Le Bourget-du-Lac, France.
 <!----------->
 <tr>
     <td>14:00-15:00</td>
-    <td><a href="https://">XXX</a></td>
+    <td><a href="https://sites.google.com/view/pduttashomepage">Pranjal Dutta</a></td>
     <td><details><summary>Title</summary>
         <blockquote>Abstract.
 </blockquote>
@@ -230,7 +232,8 @@ Le Bourget-du-Lac, France.
 <!----------->
 <tr>
     <td>15:00-16:00</td>
-    <td><a href="https://">XXX</a></td>
+    <td><a href="https://www.lix.polytechnique.fr/~lecerf/index.en.html">Grégoire Lecerf</a>
+        <br> (or maybe later, 16:30) </td>
     <td><details><summary>Title</summary>
         <blockquote>Abstract.
 </blockquote>
@@ -243,7 +246,7 @@ Le Bourget-du-Lac, France.
     <td></td>
     <td>Coffee</td>
 </tr>
-<!-----------     Tuesday  ---------------------------------------------->
+<!-----------     Wednesday  ---------------------------------------------->
 <tr>
       <th style="width:10%"> </th>
       <th style="width:20%" style="text-align: center"> </th>
@@ -252,7 +255,7 @@ Le Bourget-du-Lac, France.
 <!----------->
 <tr>
     <td>9:30-10:30</td>
-    <td><a href="https://">XXX</a></td>
+    <td><a href="http://math.bme.hu/~ig">Gábor Ivanyos</a></td>
     <td><details><summary>Title</summary>
         <blockquote>Abstract.
 </blockquote>
@@ -268,7 +271,7 @@ Le Bourget-du-Lac, France.
 <!----------->
 <tr>
     <td>11:00-12:00</td>
-    <td><a href="https://">XXX</a></td>
+    <td><a href="https://www.cse.iitk.ac.in/users/nitin">Nitin Saxena</a></td>
     <td><details><summary>Title</summary>
         <blockquote>Abstract.
 </blockquote>
@@ -283,10 +286,122 @@ Le Bourget-du-Lac, France.
 </tr>
 <!----------->
 <tr>
-    <td>19:00</td>
+    <td>(19:00)</td>
     <td></td>
     <td>Reception
 </td>
+</tr>
+<!-----------     Thursday  ---------------------------------------------->
+<tr>
+      <th style="width:10%"> </th>
+      <th style="width:20%" style="text-align: center"> </th>
+      <th style="width:70%">Thursday September 28th, 2023</th>
+</tr>
+<!----------->
+<tr>
+    <td>9:30-10:30</td>
+    <td><a href="https://cseweb.ucsd.edu/~nadiah">Nadia Heninger</a></td>
+    <td><details><summary>Title</summary>
+        <blockquote>Abstract.
+</blockquote>
+</details>
+</td>
+</tr>
+<!----------->
+<tr>
+    <td>10:30-11:00</td>
+    <td></td>
+    <td>Coffee break</td>
+</tr>
+<!----------->
+<tr>
+    <td>11:00-12:00</td>
+    <td><a href="https://www.bweso.com">Benjamin Wesolowski</a></td>
+    <td><details><summary>Title</summary>
+        <blockquote>Abstract.
+</blockquote>
+</details>
+</td>
+</tr>
+<!----------->
+<tr>
+    <td>12:00-14:00</td>
+    <td></td>
+    <td>Lunch break</td>
+</tr>
+<!----------->
+<tr>
+    <td>14:00-15:00</td>
+    <td><a href="https://membres-ljk.imag.fr/Clement.Pernet">Clément Pernet</a></td>
+    <td><details><summary>Title</summary>
+        <blockquote>Abstract.
+</blockquote>
+</details>
+</td>
+</tr>
+<!----------->
+<tr>
+    <td>15:00-16:00</td>
+    <td><a href="https://fredrikj.net">Fredrik Johansson</a></td>
+    <td><details><summary>Title</summary>
+        <blockquote>Abstract.
+</blockquote>
+</details>
+</td>
+</tr>
+<!----------->
+<tr>
+    <td>16:00-16:30</td>
+    <td></td>
+    <td>Coffee break</td>
+</tr>
+<!----------->
+<tr>
+    <td>16:30-17:30</td>
+    <td><a href="http://www.mmrc.iss.ac.cn/~lzhi">Lihong Zhi</a></td>
+    <td><details><summary>Title</summary>
+        <blockquote>Abstract.
+</blockquote>
+</details>
+</td>
+</tr>
+<!-----------     Friday  ---------------------------------------------->
+<tr>
+      <th style="width:10%"> </th>
+      <th style="width:20%" style="text-align: center"> </th>
+      <th style="width:70%">Friday September 29th, 2023</th>
+</tr>
+<!----------->
+<tr>
+    <td>9:30-10:30</td>
+    <td><a href="https://www.uantwerpen.be/en/staff/annie-cuyt">Annie Cuyt</a></td>
+    <td><details><summary>Title</summary>
+        <blockquote>Abstract.
+</blockquote>
+</details>
+</td>
+</tr>
+<!----------->
+<tr>
+    <td>10:30-11:00</td>
+    <td></td>
+    <td>Coffee break</td>
+</tr>
+<!----------->
+<tr>
+    <td>11:00-12:00</td>
+    <td><a href="https://roche.work">Daniel Roche</a></td>
+    <td><details><summary>Title</summary>
+        <blockquote>Abstract.
+</blockquote>
+</details>
+</td>
+</tr>
+<!----------->
+<tr>
+    <td></td>
+    <td></td>
+    <td>End of the workshop</td>
 </tr>
 <!----------->
 
