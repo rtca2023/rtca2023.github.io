@@ -28,7 +28,7 @@ Monday 18th, Tuesday 19th, Thursday 21rst, and Friday 22nd, 9:30-12:00, Amphithe
 Tuesday 19th, 14:00-16:00, Amphitheater Darboux, and  Wednesday 20th,10:00-12:00, Amphitheater Hermite
 
 
-- **General audience presentation**, <br/>
+- **General audience presentation** - 
 Wednesday 20th, 16:00-17:00, Amphitheater Hermite <br/>
     <details><summary>Title, <a href="https://www.texmacs.org/joris/main/joris.html">Joris van der Hoeven</a>, CNRS, LIX, Palaiseau</summary> <blockquote>Abstract.</blockquote></details>
 
