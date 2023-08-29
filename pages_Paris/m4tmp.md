@@ -76,7 +76,7 @@ in numerical analysis.
 - [Laura Grigori](https://who.rocq.inria.fr/Laura.Grigori), Inria, LJLL, Paris, France.  
 - [David Harvey](https://web.maths.unsw.edu.au/~davidharvey), University of New South Wales, Sydney, Australia. 
 - [Nadia Heninger](https://cseweb.ucsd.edu/~nadiah), University of California, San Diego, USA. 
-- [Gábor Ivanyos](http://math.bme.hu/~ig), Research Institute for Computer Science and Control, Budapest, Hungary.
+- [Gábor Ivanyos](http://math.bme.hu/~ig), HUN-REN Research Institute for Computer Science and Control, Budapest, Hungary.
 - [Fredrik Johansson](https://fredrikj.net), Inria, IMB, Bordeaux, France.
 - [Grégoire Lecerf](https://www.lix.polytechnique.fr/~lecerf/index.en.html), CNRS, LIX, Palaiseau, France.
 - [Guillaume Moroz](https://members.loria.fr/GMoroz/), Inria, LORIA, Nancy, France.
@@ -158,8 +158,17 @@ Le Bourget-du-Lac, France.
     <td>14:00-15:00</td>
     <td><a href="https://members.loria.fr/GMoroz">Guillaume Moroz</a>
         <br/> (or maybe Tuesday morning, 11:00)</td>
-    <td><details><summary>Title</summary>
-        <blockquote>Abstract.
+    <td><details><summary>Efficient approximation of polynomials</summary>
+        <blockquote>Abstract. In modern numerical computations, real numbers are approximated with
+floating-point numbers, of the form $s 2^e$, where $s$ and $e$ are
+integers with a fixed precision. This representation is compact and can
+represent numbers with small and large magnitudes. In this talk, we will
+generalize this idea to approximate univariate polynomial functions with
+piecewise polynomials of the form $s(X) X^e$ where $s$ is a polynomial
+of fixed degree and $e$ is an integer. Using tools such as the Newton
+polygon, this representation can be computed efficiently both in theory
+and in practice. Moreover, it can be used to efficiently evaluate and
+find roots approximations of a high-degree polynomial.
 </blockquote>
 </details>
 </td>
@@ -266,8 +275,25 @@ Le Bourget-du-Lac, France.
 <tr>
     <td>9:30-10:30</td>
     <td><a href="http://math.bme.hu/~ig">Gábor Ivanyos</a></td>
-    <td><details><summary>Title</summary>
-        <blockquote>Abstract.
+    <td><details><summary>Computing the non-commutative rank of linear matrices</summary>
+        <blockquote>Abstract. The topic of the talk connects skew-fields, polynomial identity testing,
+invariant theory and optimization. By a linear matrix we mean a matrix
+having homogeneous linear entries and the non-commutative rank 
+is the rank when we consider the variables as elements of the appropriate 
+free skew-field. Computing it is a relaxation of determining the maximal
+rank of a matrix in a given linear space of matrices. A remarkable 
+characterization can be given in terms of a large common zero block 
+of the coefficient matrices after a change of basis. 
+We will present the main ideas of a deterministic polynomial time
+algorithm that computes the noncom-mutative rank. Note that existence of
+an efficient deterministic method computing the ordinary rank
+is a famous open problem in polynomial identity testing. The algorithm
+gives lower and upper witnesses for the rank. The lower witness is 
+a polynomial invariant of a sub-matrix while the upper witness is 
+given by a common zero block. We will also discuss some applications 
+of the algorithm. <br/>
+The talk is based on joint works with Youming Qiao 
+and K. V. Subrahmanyam. 
 </blockquote>
 </details>
 </td>
@@ -283,16 +309,13 @@ Le Bourget-du-Lac, France.
     <td>11:00-12:00</td>
     <td><a href="https://www.cse.iitk.ac.in/users/nitin">Nitin Saxena</a></td>
     <td><details><summary>Closure of algebraic complexity classes under factoring</summary>
-        <blockquote>Abstract. Polynomial factoring is one of the most fundamental problems in the area of computational algebra. Its variants have attracted a huge amount of attention in the last half-a-century. On the other hand, algebraic complexity theory classifies polynomials, into complexity classes, according to computational resources. Could we show that these classes afford polynomial factoring algorithms?
-  
-            <br/>
+        <blockquote>Abstract. Polynomial factoring is one of the most fundamental problems in the area of computational algebra. Its variants have attracted a huge amount of attention in the last half-a-century. On the other hand, algebraic complexity theory classifies polynomials, into complexity classes, according to computational resources. Could we show that these classes afford polynomial factoring algorithms? <br/>
 
 In this talk we will focus on four algebraic complexity classes--- size-s circuits VP$_{nb}$, size-s degree-s circuits VP, size-s degree-s verifier circuits VNP, and size-s algebraic branching programs VBP. We will discuss the algebraic methods, inspired from analysis, that have been developed to do factoring in these complexity classes. We will list the open questions and make some related conjectures.
 
 <br>
 
-[This is based on the joint work with Pranjal Dutta, Amit Sinhababu (J. ACM'22, STOC'18), and the follow-up papers by others.] <br/>
-[<a href="https://www.cse.iitk.ac.in/users/nitin/research.html">https://www.cse.iitk.ac.in/users/nitin/research.html</a>]
+[This is based on the joint work with Pranjal Dutta, Amit Sinhababu (J. ACM'22, STOC'18), and the follow-up papers by others.] [<a href="https://www.cse.iitk.ac.in/users/nitin/research.html">https://www.cse.iitk.ac.in/users/nitin/research.html</a>]
 </blockquote>
 </details>
 </td>
@@ -378,8 +401,12 @@ In this talk we will focus on four algebraic complexity classes--- size-s circui
 <tr>
     <td>16:30-17:30</td>
     <td><a href="http://www.mmrc.iss.ac.cn/~lzhi">Lihong Zhi</a></td>
-    <td><details><summary>Title</summary>
-        <blockquote>Abstract.
+    <td><details><summary>Computing Sparse Fourier Sum of Squares on Finite Abelian Groups</summary>
+        <blockquote>Abstract. The non-negativity of a function on a finite abelian group can be certified by its Fourier sum of squares (FSOS). We propose a method of certifying the nonnegativity of an integer valued function by an FSOS certificate, which is defined to be an FSOS with a small error. We prove the existence of exponentially sparse polynomial and rational FSOS certificates and provide two methods to validate them.  As a consequence of the aforementioned existence theorems, we propose a semidefinite programming (SDP)-based algorithm to efficiently compute a sparse FSOS certificate. For applications, we consider certificate problems for maximum satisfiability (MAX-SAT) and maximum k-colorable subgraph (MkCS) and demonstrate our theoretical results and algorithm by numerical experiments.<br/>
+
+Jointed work with Jianting Yang and Ke Ye.
+
+
 </blockquote>
 </details>
 </td>
