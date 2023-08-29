@@ -12,17 +12,30 @@ page_id: 100
 **[How to come to IHP](https://www.ihp.fr/en/how-come-ihp)** / 
 **[Live stream](https://www.ihp.fr/en/live)**
 
+<a name="special"></a>
+
 <hr size="6">
 
 #### Special week
 
 *September 18 to 22, 2023*
-* **Efficient Algorithms for Integer and Polynomial Matrices** (long course), 
-[G. Labahn](https://cs.uwaterloo.ca/~glabahn) and [A. Storjohann](https://cs.uwaterloo.ca/~astorjoh), 
-Monday 18th, Tuesday 19th, Thursday 21rst,  and Friday 22nd morning
-* **Euclidean Lattices** (short course), [D. Stehlé](http://perso.ens-lyon.fr/damien.stehle), Tuesday 19th afternoon and Wednesday 20th morning
-* **General audience presentation**, [J. van der Hoeven](https://www.texmacs.org/joris/main/joris.html) Wednesday 20th afternoon  
+- **Efficient Algorithms for Integer and Polynomial Matrices** (long course), 
+[G. Labahn](https://cs.uwaterloo.ca/~glabahn) and [A. Storjohann](https://cs.uwaterloo.ca/~astorjoh)<br/>
+Monday 18th, Tuesday 19th, Thursday 21rst, and Friday 22nd, 9:30-12:00, Amphitheater Darboux<br/>
 
+- **Euclidean Lattices** (short course), [D. Stehlé](http://perso.ens-lyon.fr/damien.stehle)<br/>
+Tuesday 19th, 14:00-16:00, Amphitheater Darboux, and  Wednesday 20th,10:00-12:00, Amphitheater Hermite
+
+
+- **General audience presentation**, <br/>
+Wednesday 20th, 16:00, Amphitheater Hermite <br/>
+    <details><summary>Title, <a href="https://www.texmacs.org/joris/main/joris.html">J. van der Hoeven</a></summary> <blockquote>Abstract.</blockquote></details>
+
+
+
+
+
+<hr>
 
 #### Workshop: Fundamental Algorithms and Algorithmic Complexity
 
@@ -82,14 +95,14 @@ Le Bourget-du-Lac, France.
 - [Lihong Zhi](http://www.mmrc.iss.ac.cn/~lzhi), Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China. 
 
 
+<a name="schedule"></a>
+
 <hr>
 
 
 **Preliminary Program of the workshop - All talks in Amphitheater Hermite**
 
 **[Live stream](https://www.ihp.fr/en/live)**
-
-<a name="schedule"></a>
 
 
 
@@ -108,7 +121,7 @@ Le Bourget-du-Lac, France.
 <!----------->
 <tr>
     <td>9:15-9:30</td><td></td><td> Opening 
-      <br><a href="https://www.ihp.fr/en/governance">Dominique Mouhanna</a>, 
+      <br/><a href="https://www.ihp.fr/en/governance">Dominique Mouhanna</a>, 
       IHP Deputy Director</td>
 </tr>
 <!----------->
@@ -147,7 +160,7 @@ Le Bourget-du-Lac, France.
 <tr>
     <td>14:00-15:00</td>
     <td><a href="https://members.loria.fr/GMoroz">Guillaume Moroz</a>
-        <br> (or maybe Tuesday morning, 11:00)</td>
+        <br/> (or maybe Tuesday morning, 11:00)</td>
     <td><details><summary>Title</summary>
         <blockquote>Abstract.
 </blockquote>
@@ -206,7 +219,7 @@ Le Bourget-du-Lac, France.
 <tr>
     <td>11:00-12:00</td>
     <td><a href="https://tavenas.pages.math.cnrs.fr">Sébastien Tavenas</a>
-        <br> (or maybe afternoon, 15:00)</td>
+        <br/> (or maybe afternoon, 15:00)</td>
     <td><details><summary>Title</summary>
         <blockquote>Abstract.
 </blockquote>
