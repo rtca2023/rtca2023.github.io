@@ -5,6 +5,7 @@ page_site: Paris
 page_id: 100
 ---
 
+
 **New below:  [Workshop preliminary program](#schedule)**
 
 **[Registration](https://indico.math.cnrs.fr/event/8113/registrations)**
