@@ -177,8 +177,27 @@ find roots approximations of a high-degree polynomial.
 <tr>
     <td>15:00-16:00</td>
     <td><a href="https://mathexp.eu/chyzak">Frédéric Chyzak</a></td>
-    <td><details><summary>Title</summary>
-        <blockquote>Abstract.
+    <td><details><summary>First-order factors of linear Mahler operators</summary>
+        <blockquote>Abstract. We develop and compare two algorithms for computing first-order right-hand factors in the
+ring of linear Mahler operators
+$\ell_r M^r + \dots + \ell_1 M + \ell_0$
+where $\ell_0, \dots, \ell_r$ are polynomials in $x$ and $Mx = x^b M$ for some
+integer $b \geq 2$.
+In other words, we give algorithms for finding all formal infinite product
+solutions of linear functional equations
+$\ell_r(x) f(x^{b^r}) + \dots + \ell_1(x) f(x^b) + \ell_0(x) f(x) = 0$.<br/>
+
+The first of our algorithms is adapted from Petkovšek's classical algorithm for
+the analogous problem in the case of linear recurrences.
+The second one proceeds
+by computing a basis of generalized power series solutions of the functional equation
+and by using Hermite-Padé approximants to detect those linear combinations of the solutions
+that correspond to first-order factors.<br/>
+
+We present implementations of both algorithms and discuss their use
+in combination with criteria from the literature
+to prove the differential transcendance of power series solutions of Mahler
+equations.
 </blockquote>
 </details>
 </td>
@@ -253,8 +272,12 @@ find roots approximations of a high-degree polynomial.
     <td>15:00-16:00</td>
     <td><a href="https://www.lix.polytechnique.fr/~lecerf/index.en.html">Grégoire Lecerf</a>
         <br> (or maybe later, 16:30) </td>
-    <td><details><summary>Title</summary>
-        <blockquote>Abstract.
+    <td><details><summary>Efficient algorithms for Riemann—Roch spaces</summary>
+        <blockquote>Abstract. Riemann—Roch spaces are a cornerstone of modern applications of algebra to various areas of computer science: error correcting codes, secret sharing, multi-party computations, zero-knowledge proofs, resilience in distributed storage systems, interactive oracle proofs... Best performances are achieved for specific families of spaces known to be difficult to compute.<br/>
+
+We will present a new probabilistic algorithm of Las Vegas type that computes Riemann—Roch spaces of plane projective curves in expected sub-quadratic time whenever the characteristic is zero or positive but sufficiently large. The method relies on the Brill—Noether theory (1874), bivariate polynomial elimination, Puiseux series expansions, and structured polynomial matrices. In case of curves with only ordinary singularities, we will present a faster variant that even supports any characteristic.<br/>
+
+This is joint work with Simon Abelard (Thales SIX GTS, France), Elena Berardini (CNRS, University of Bordeaux, France), Alain Couvreur (Inria Saclay, France).
 </blockquote>
 </details>
 </td>
