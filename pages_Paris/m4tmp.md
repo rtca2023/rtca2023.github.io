@@ -125,8 +125,8 @@ Le Bourget-du-Lac, France.
 <tr>
     <td>9:30-10:30</td>
     <td><a href="https://vonzurgathen.online">Joachim von zur Gathen</a></td>
-    <td><details><summary>Title</summary>
-        <blockquote>Abstract.
+    <td><details><summary>A recent trend in Computer Algebra? Let's chat!</summary>
+        <blockquote>Abstract. Does the recent craze about chatbots affect Computer Algebra? If so, in which way? As a non-expert, I will share some observations.
 </blockquote>
 </details>
 </td>
@@ -444,8 +444,8 @@ Jointed work with Jianting Yang and Ke Ye.
 <tr>
     <td>9:30-10:30</td>
     <td><a href="https://www.uantwerpen.be/en/staff/annie-cuyt">Annie Cuyt</a></td>
-    <td><details><summary>Title</summary>
-        <blockquote>Abstract.
+    <td><details><summary>Sparse interpolation and Exponential analysis going hand in hand</summary>
+        <blockquote><a href="DocM4/abstractCuytLee.pdf">abstractCuytLee.pdf</a>
 </blockquote>
 </details>
 </td>
