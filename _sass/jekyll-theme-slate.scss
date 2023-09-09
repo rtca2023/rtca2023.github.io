@@ -165,7 +165,7 @@ pre code {
 }
 
 blockquote {
-  color: #666;
+  color: #444;
   margin-bottom: 20px;
   padding: 0 0 0 20px;
   border-left: 3px solid #bbb;
@@ -202,12 +202,15 @@ dl p {
   font-style: italic;
 }
 
+
 hr {
-  height: 1px;
-  margin-bottom: 5px;
-  border: none;
-  background: url('../images/bg_hr.png') repeat-x center;
-}
+        border: none;
+        height: 1px;
+        background: gray;
+        margin-bottom: 5px;
+    }
+
+
 
 table {
   border: 1px solid #373737;
