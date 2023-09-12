@@ -14,15 +14,28 @@ page_id: 0
   * [*Effective Aspects in Diophantine Approximation*]({% link pages_Lyon/m1.md %}) (March 27-31)
     <br/>&nbsp;&nbsp;&nbsp; Organized by [B. Adamczewski](https://adamczewski.perso.math.cnrs.fr), {{site.bostan}}, {{site.salvy}}, [W. Zudilin](https://www.math.ru.nl/~wzudilin/).
   * [*Certified and Symbolic-Numeric Computation*]({% link pages_Lyon/m2.md %}) (May 22-26)<br/>&nbsp;&nbsp;&nbsp; Organized by {{site.brisebarre}}, {{site.mahboubi}}, {{site.pous}}, {{site.salvy}}.
-  * [*Mathematical Software and High Performance Algebraic Computing*]({% link pages_Lyon/m3.md %}) (June 26-30)<br/>&nbsp;&nbsp;&nbsp; Organized by [W. Decker](https://www.mathematik.uni-kl.de/en/agag/people/head/prof-dr-wolfram-decker), [J.-G. Dumas](https://membres-ljk.imag.fr/Jean-Guillaume.Dumas/), [C. Pernet](https://membres-ljk.imag.fr/Clement.Pernet/), [E. Thomé](https://members.loria.fr/EThome/), {{site.villard}}.
+  * [*Mathematical Software and High Performance Algebraic Computing*]({% link pages_Lyon/m3.md %}) (June 26-30)<br/>&nbsp;&nbsp;&nbsp; Organized by [W. Decker](https://www.mathematik.uni-kl.de/en/agag/people/head/prof-dr-wolfram-decker), [J.-G. Dumas](https://membres-ljk.imag.fr/Jean-Guillaume.Dumas/), [C. Pernet](https://membres-ljk.imag.fr/Clement.Pernet/), [E. Thomé](https://members.loria.fr/EThome/), {{site.villard}}
 
 **IHP Paris Trimester** Fall 2023 with courses, topical days, seminars, general audience talks and three 1-week workshops:
-  * [*Fundamental Algorithms and Algorithmic Complexity*]({% link pages_Paris/m4.md %}) (September 25-29)<br/>&nbsp;&nbsp;&nbsp; Organized by [J. van der Hoeven](https://www.texmacs.org/joris/main/joris.html), {{site.giesbrecht}}, 
+  * [*Fundamental Algorithms and Algorithmic Complexity*]({% link pages_Paris/m4.md %}) 
+  <br/>&nbsp;&nbsp;&nbsp; [*Special week*](pages_Paris/m4.md#special), September 18-22
+  <br/>&nbsp;&nbsp;&nbsp; [*Workshop*](pages_Paris/m4.md#schedule), organized by [J. van der Hoeven](https://www.texmacs.org/joris/main/joris.html), {{site.giesbrecht}}, 
     [P. Koiran](http://perso.ens-lyon.fr/pascal.koiran),
-    {{site.villard}}.
-  * [*Geometry of Polynomial System Solving, Optimization and Topology*]({% link pages_Paris/m5.md %}) (October 16-20)<br/>&nbsp;&nbsp;&nbsp; Organized by [C. D'Andrea](http://www.ub.edu/arcades/cdandrea.html), {{site.lairez}}, {{site.safey}}, {{site.schost}}, [L. Zhi](http://www.mmrc.iss.ac.cn/~lzhi/).
-  * [*Computer Algebra for Functional Equations in Combinatorics and Physics*]({% link pages_Paris/m6.md %}) (December 4-8)<br/>&nbsp;&nbsp;&nbsp; Organized by {{site.bostan}}, 
-    [J. Bouttier](https://www.ipht.fr/Pisp/jeremie.bouttier), [T. Cluzeau](https://www.unilim.fr/pages_perso/thomas.cluzeau/), [L. Di Vizio](https://divizio.joomla.com/), [C. Krattenthaler](https://www.mat.univie.ac.at/~kratt/), {{site.lairez}}, [J.-M. Maillard](https://www.lptmc.jussieu.fr/users/maillard).
+    {{site.villard}}, September 25-29
+
+  * [*Geometry of Polynomial System Solving, Optimization and Topology*]({% link pages_Paris/m5.md %}) 
+<br/>&nbsp;&nbsp;&nbsp; [*Special week*](pages_Paris/m5.md), October 9-13
+  <br/>&nbsp;&nbsp;&nbsp; [*Workshop*](pages_Paris/m5.md#workshop), organized by [C. D'Andrea](http://www.ub.edu/arcades/cdandrea.html), {{site.lairez}}, {{site.safey}}, {{site.schost}}, [L. Zhi](http://www.mmrc.iss.ac.cn/~lzhi/), October 16-20
+<br/>&nbsp;&nbsp;&nbsp; [*Topical day*](pages_Paris/m5.md#topical), October 24
+
+  * [*Computer Algebra for Functional Equations in Combinatorics and Physics*]({% link pages_Paris/m6.md %}) 
+<br/>&nbsp;&nbsp;&nbsp; [*Special week*](pages_Paris/m6.md), November 27 - December 1
+  <br/>&nbsp;&nbsp;&nbsp; [*Workshop*](pages_Paris/m6.md#workshop), Organized by {{site.bostan}}, 
+    [J. Bouttier](https://www.ipht.fr/Pisp/jeremie.bouttier), [T. Cluzeau](https://www.unilim.fr/pages_perso/thomas.cluzeau/), [L. Di Vizio](https://divizio.joomla.com/), [C. Krattenthaler](https://www.mat.univie.ac.at/~kratt/), {{site.lairez}}, [J.-M. Maillard](https://www.lptmc.jussieu.fr/users/maillard), December 4-8
+<br/>&nbsp;&nbsp;&nbsp; [*Topical days*](pages_Paris/m6.md#topical), December 11-12
+
+
+  (November 27 - December 12)<br/>&nbsp;&nbsp;&nbsp; 
 
 ## Context ##
 
