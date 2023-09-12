@@ -26,16 +26,16 @@ page_id: 0
   * [*Geometry of Polynomial System Solving, Optimization and Topology*]({% link pages_Paris/m5.md %}) 
 <br/>&nbsp;&nbsp;&nbsp; [*Special week*](pages_Paris/m5.md), October 9-13
   <br/>&nbsp;&nbsp;&nbsp; [*Workshop*](pages_Paris/m5.md#workshop), organized by [C. D'Andrea](http://www.ub.edu/arcades/cdandrea.html), {{site.lairez}}, {{site.safey}}, {{site.schost}}, [L. Zhi](http://www.mmrc.iss.ac.cn/~lzhi/), October 16-20
-<br/>&nbsp;&nbsp;&nbsp; [*Topical day*](pages_Paris/m5.md#topical), October 24
+<br/>&nbsp;&nbsp;&nbsp; [*Topical day*](pages_Paris/m5.md#topical), 
+organized by [J. Schicho](https://www3.risc.jku.at/people/jschicho), October 24
 
   * [*Computer Algebra for Functional Equations in Combinatorics and Physics*]({% link pages_Paris/m6.md %}) 
 <br/>&nbsp;&nbsp;&nbsp; [*Special week*](pages_Paris/m6.md), November 27 - December 1
   <br/>&nbsp;&nbsp;&nbsp; [*Workshop*](pages_Paris/m6.md#workshop), Organized by {{site.bostan}}, 
     [J. Bouttier](https://www.ipht.fr/Pisp/jeremie.bouttier), [T. Cluzeau](https://www.unilim.fr/pages_perso/thomas.cluzeau/), [L. Di Vizio](https://divizio.joomla.com/), [C. Krattenthaler](https://www.mat.univie.ac.at/~kratt/), {{site.lairez}}, [J.-M. Maillard](https://www.lptmc.jussieu.fr/users/maillard), December 4-8
-<br/>&nbsp;&nbsp;&nbsp; [*Topical days*](pages_Paris/m6.md#topical), December 11-12
-
-
-  (November 27 - December 12)<br/>&nbsp;&nbsp;&nbsp; 
+<br/>&nbsp;&nbsp;&nbsp; [*Topical days*](pages_Paris/m6.md#topical)
+organized by  [A. Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html)
+and [G. Pogudin](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN/), December 11-12
 
 ## Context ##
 
