@@ -34,8 +34,11 @@ organized by [J. Schicho](https://www3.risc.jku.at/people/jschicho), October 24
   <br/>&nbsp;&nbsp;&nbsp; [*Workshop*](pages_Paris/m6.md#workshop), Organized by {{site.bostan}}, 
     [J. Bouttier](https://www.ipht.fr/Pisp/jeremie.bouttier), [T. Cluzeau](https://www.unilim.fr/pages_perso/thomas.cluzeau/), [L. Di Vizio](https://divizio.joomla.com/), [C. Krattenthaler](https://www.mat.univie.ac.at/~kratt/), {{site.lairez}}, [J.-M. Maillard](https://www.lptmc.jussieu.fr/users/maillard), December 4-8
 <br/>&nbsp;&nbsp;&nbsp; [*Topical days*](pages_Paris/m6.md#topical)
-organized by  [A. Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html)
-and [G. Pogudin](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN/), December 11-12
+organized by  
+[G. Pogudin](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN/) 
+and
+[A. Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html),
+December 11-12
 
 ## Context ##
 
