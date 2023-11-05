@@ -18,13 +18,13 @@ page_id: 100
 <hr>
 * *Wednesday 25 October 2023, 11:00-12:00, room Pierre Grisvard*
 
-**Joint MATHEXP–PolSys Seminar](https://mathexp.eu/seminar/)** 
+**[Joint MATHEXP–PolSys Seminar](https://mathexp.eu/seminar/)** 
 <em>Pop-stack sorting and pattern-avoiding permutations</em>, [Emily Barnard](https://emilybarnard.github.io)
 
 <hr>
 * *Friday 6 October 2023, 11:00-12:00, Amphitheater Darboux*
 
-**Joint MATHEXP–PolSys Seminar](https://mathexp.eu/seminar/)** 
+**[Joint MATHEXP–PolSys Seminar](https://mathexp.eu/seminar/)** 
 <em>Ordinary linear differential equations with algebraic solutions</em>, [Camilo Sanabria Malagón](https://matematicas.uniandes.edu.co/en/professors/camilo-sanabria-malagon)
 
 <hr>
@@ -32,7 +32,7 @@ page_id: 100
 * *Thursday 21 September 2023, 14:00, LIP6, Sorbonne U., 
 <a href="https://www.lip6.fr/informations/comment.php">room 25-26, 105</a>*
 
-**Jérémy Berthomieu's Habilitation defense**
+**[Jérémy Berthomieu](https://www-polsys.lip6.fr/~berthomieu/)'s Habilitation defense**
 <q><a href="https://www-polsys.lip6.fr/~berthomieu/assets/pdf/hdr_berthomieu.pdf">Contributions to polynomial system solving: Recurrences and Gröbner bases</a></q>
 
 <hr>
