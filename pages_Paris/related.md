@@ -13,7 +13,19 @@ page_id: 100
 <hr>
 * *Thursday 30 November 2023, 16:00-17:00 (Salle de thé, Espace PARTAGER)*
 
-**[Rencontre à l'heure du thé](https://www.ihp.fr/sites/default/files/media/downloads/programme_2023_s2_vf.pdf)** <em>La suite logistique</em>, [X. Caruso](https://xavier.caruso.ovh)
+**[Rencontre à l'heure du thé](https://www.ihp.fr/sites/default/files/media/downloads/programme_2023_s2_vf.pdf)** <em>La suite logistique</em>, [Xavier Caruso](https://xavier.caruso.ovh)
+
+<hr>
+* *Wednesday 25 October 2023, 11:00-12:00, room Pierre Grisvard*
+
+**Joint MATHEXP–PolSys Seminar](https://mathexp.eu/seminar/)** 
+<em>Pop-stack sorting and pattern-avoiding permutations</em>, [Emily Barnard](https://emilybarnard.github.io)
+
+<hr>
+* *Friday 6 October 2023, 11:00-12:00, Amphitheater Darboux*
+
+**Joint MATHEXP–PolSys Seminar](https://mathexp.eu/seminar/)** 
+<em>Ordinary linear differential equations with algebraic solutions</em>, [Camilo Sanabria Malagón](https://matematicas.uniandes.edu.co/en/professors/camilo-sanabria-malagon)
 
 <hr>
 
