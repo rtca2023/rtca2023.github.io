@@ -18,13 +18,13 @@ page_id: 100
 <hr>
 * *Friday 10 November 2023, 11:00-12:00, Amphitheater Darboux*
 
-**<em>Solving equations from combinatorics via computer algebra</em>** 
+**<em>Solving equations from combinatorics via computer algebra</em>,** 
 [Hadrien Notarantonio](https://mathexp.eu/notarantonio/)
 
 <hr>
 * *Thursday 9 November 2023, 13:45-15:00, Amphitheater Darboux*
 
-**<em>Biomembranes and creative telescoping</em>** 
+**<em>Biomembranes and creative telescoping</em>,** 
 [Sergey Yurkevich](https://yurkevi.ch)
 
 <hr>
