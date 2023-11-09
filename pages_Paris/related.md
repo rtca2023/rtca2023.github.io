@@ -16,6 +16,18 @@ page_id: 100
 **[Rencontre à l'heure du thé](https://www.ihp.fr/sites/default/files/media/downloads/programme_2023_s2_vf.pdf)** <em>La suite logistique</em>, [Xavier Caruso](https://xavier.caruso.ovh)
 
 <hr>
+* *Friday 10 November 2023, 11:00-12:00, Amphitheater Darboux*
+
+**<em>Solving equations from combinatorics via computer algebra</em>** 
+[Hadrien Notarantonio](https://mathexp.eu/notarantonio/)
+
+<hr>
+* *Thursday 9 November 2023, 13:45-15:00, Amphitheater Darboux*
+
+**<em>Biomembranes and creative telescoping</em>** 
+[Sergey Yurkevich](https://yurkevi.ch)
+
+<hr>
 * *Wednesday 25 October 2023, 11:00-12:00, room Pierre Grisvard*
 
 **[Joint MATHEXP–PolSys Seminar](https://mathexp.eu/seminar/)** 
