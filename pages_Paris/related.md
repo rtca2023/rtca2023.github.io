@@ -11,6 +11,12 @@ page_id: 100
 
 
 <hr>
+* *Friday 8 December 2023, 14:00-15:00, Amphitheater Darboux*
+
+**<em>TBA</em>,** 
+[Mizuka Komatsu](http://www2.kobe-u.ac.jp/~mkomatsu/index_en.html)
+
+<hr>
 * *Thursday 30 November 2023, 16:00-17:00 (Salle de thé, Espace PARTAGER)*
 
 **[Rencontre à l'heure du thé](https://www.ihp.fr/sites/default/files/media/downloads/programme_2023_s2_vf.pdf)** <em>La suite logistique</em>, [Xavier Caruso](https://xavier.caruso.ovh)
