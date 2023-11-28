@@ -13,8 +13,8 @@ page_id: 100
 <hr>
 * *Friday 8 December 2023, 14:00-15:00, Amphitheater Darboux*
 
-**<em>Application of differential elimination for physics-based deep learning and computing</em>,** 
-[Mizuka Komatsu](http://www2.kobe-u.ac.jp/~mkomatsu/index_en.html)
+**[MAX Seminar](http://www.lix.polytechnique.fr/max/max-web/max/max-seminar.en.html)** 
+<em>Application of differential elimination for physics-based deep learning and computing</em>, [Mizuka Komatsu](http://www2.kobe-u.ac.jp/~mkomatsu/index_en.html)
 
 <hr>
 * *Thursday 30 November 2023, 16:00-17:00 (Salle de thé, Espace PARTAGER)*
