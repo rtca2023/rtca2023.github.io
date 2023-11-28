@@ -13,7 +13,7 @@ page_id: 100
 <hr>
 * *Friday 8 December 2023, 14:00-15:00, Amphitheater Darboux*
 
-**<em>TBA</em>,** 
+**<em>Application of differential elimination for physics-based deep learning and computing</em>,** 
 [Mizuka Komatsu](http://www2.kobe-u.ac.jp/~mkomatsu/index_en.html)
 
 <hr>
