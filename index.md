@@ -30,7 +30,7 @@ page_id: 0
 organized by [J. Schicho](https://www3.risc.jku.at/people/jschicho), October 24
 
   * [*Computer Algebra for Functional Equations in Combinatorics and Physics*]({% link pages_Paris/m6.md %}) 
-<br/>&nbsp;&nbsp;&nbsp; [*Special week*](pages_Paris/m6.md), November 27 - December 1
+<br/>&nbsp;&nbsp;&nbsp; [*Special week*](pages_Paris/m6.md#special), November 27 - December 1
   <br/>&nbsp;&nbsp;&nbsp; [*Workshop*](pages_Paris/m6.md#workshop), Organized by {{site.bostan}}, 
     [J. Bouttier](https://www.ipht.fr/Pisp/jeremie.bouttier), [T. Cluzeau](https://www.unilim.fr/pages_perso/thomas.cluzeau/), [L. Di Vizio](https://divizio.joomla.com/), [C. Krattenthaler](https://www.mat.univie.ac.at/~kratt/), {{site.lairez}}, [J.-M. Maillard](https://www.lptmc.jussieu.fr/users/maillard), December 4-8
 <br/>&nbsp;&nbsp;&nbsp; [*Topical day*](pages_Paris/m6.md#topical),
