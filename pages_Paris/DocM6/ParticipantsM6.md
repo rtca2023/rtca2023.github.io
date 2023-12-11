@@ -5,7 +5,7 @@ page_site: Paris
 page_id: 100
 ---
 
-**Participants**
+**Participants M6**
 
 * Youssef Abdelaziz
 * Arvind Ayyer
