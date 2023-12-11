@@ -123,7 +123,6 @@ page_id: 100
 * Jacques-Arthur Weil
 * Nicholas Witte
 * Zhihong Yang
-* Sergey Yurkevich
 * Zafeirakis Zafeirakopoulos
 * Wadim Zudilin
 
